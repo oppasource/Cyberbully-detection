@@ -76,11 +76,14 @@ def get_stats(usrname):
 	temp_df = temp_df[temp_df.post_url != most_bullied_post]
 	second_most_bullied_post = temp_df[temp_df['bully_or_not'] == temp_df['bully_or_not'].max()]['post_url'].to_string().split()[-1]
 
-	most_confident_bully = df[df['confidence_score'] == df['confidence_score'].max()].iloc[0]['post_url']
+	try:
+		most_confident_bully = df[df['confidence_score'] == df['confidence_score'].max()].iloc[0]['post_url']
+		if most_bullied_post != most_confident_bully:
+			second_most_bullied_post = most_confident_bully
+	except:
+		pass
 
-	if most_bullied_post != most_confident_bully:
-		second_most_bullied_post = most_confident_bully
-
+	
 	bullied_comments_1st = df[df['post_url'] == most_bullied_post].sort_values(by = ['confidence_score'], ascending  = False)['comment'].iloc[:Settings.top_k_comments]
 	bullied_comments_2nd = df[df['post_url'] == second_most_bullied_post].sort_values(by = ['confidence_score'], ascending  = False)['comment'].iloc[:Settings.top_k_comments]
 	bullied_comments_1st = bullied_comments_1st.tolist()

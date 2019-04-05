@@ -41,13 +41,16 @@ chrome_options.add_experimental_option('prefs', {'intl.accept_languages': 'en-US
 capabilities = DesiredCapabilities.CHROME
 
 
-try:
-    browser = init_chromedriver(chrome_options, capabilities)
-except Exception as exc:
-    print(exc)
-    sys.exit()
+
 
 def get_info(username):
+	try:
+	    browser = init_chromedriver(chrome_options, capabilities)
+	except Exception as exc:
+	    print(exc)
+	    sys.exit()
+
+    
 	try:
 	    information = []
 	    user_commented_list = []

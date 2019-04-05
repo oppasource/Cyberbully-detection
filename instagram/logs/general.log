@@ -1,0 +1,1974 @@
+INFO [2019-04-02 17:58:08] Extracting information from therock
+INFO [2019-04-02 17:58:19] alias name: therock
+INFO [2019-04-02 17:58:19] bio: Mana. Gratitude. Tequila.
+And not necessarily in that order..
+INFO [2019-04-02 17:58:19] url: undrarmr.co/2aDxhdV
+INFO [2019-04-02 17:58:19] Posts: 4178
+INFO [2019-04-02 17:58:19] Follower: 137283346
+INFO [2019-04-02 17:58:19] Following: {'count': 355}
+INFO [2019-04-02 17:58:19] isPrivate: False
+INFO [2019-04-02 17:58:21] Scraping Post Link: https://www.instagram.com/p/BvsVdHGlSqx/
+INFO [2019-04-02 17:58:22] location_id: 0
+INFO [2019-04-02 17:58:22] location_url: 
+INFO [2019-04-02 17:58:22] location_name: 
+INFO [2019-04-02 17:58:22] lat: 
+INFO [2019-04-02 17:58:22] lng: 
+INFO [2019-04-02 17:58:22] Post date: 2019-04-01T00:35:16.000Z
+INFO [2019-04-02 17:58:22] number of images: 0
+INFO [2019-04-02 17:58:22] video views: 2009343
+INFO [2019-04-02 17:58:22] post likes: 351327
+INFO [2019-04-02 17:58:29] found comments: 122
+ERROR [2019-04-02 17:58:29] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 17:58:29] ERROR something went wrong getting comment
+INFO [2019-04-02 17:58:33] 121 comments.
+INFO [2019-04-02 17:58:33] Scraping Post Link: https://www.instagram.com/p/Bvttc3MhF66/
+INFO [2019-04-02 17:58:35] location_id: 0
+INFO [2019-04-02 17:58:35] location_url: 
+INFO [2019-04-02 17:58:35] location_name: 
+INFO [2019-04-02 17:58:35] lat: 
+INFO [2019-04-02 17:58:35] lng: 
+INFO [2019-04-02 17:58:35] Post date: 2019-04-01T13:14:45.000Z
+INFO [2019-04-02 17:58:35] number of images: 1
+INFO [2019-04-02 17:58:35] post image: https://scontent-bom1-2.cdninstagram.com/vp/29dd69c203c15754ba58a8d1ceb8e692/5D43075D/t51.2885-15/e35/56237871_407432116711773_3310175818640687218_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 17:58:35] alt text: Image may contain: 1 person, standing, drink and indoor
+INFO [2019-04-02 17:58:35] post likes: 2452556
+INFO [2019-04-02 17:58:41] found comments: 122
+ERROR [2019-04-02 17:58:41] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 17:58:41] ERROR something went wrong getting comment
+INFO [2019-04-02 17:58:46] 121 comments.
+INFO [2019-04-02 17:58:46] Scraping Post Link: https://www.instagram.com/p/BvpARfqB7W5/
+INFO [2019-04-02 17:58:47] location_id: 0
+INFO [2019-04-02 17:58:47] location_url: 
+INFO [2019-04-02 17:58:47] location_name: 
+INFO [2019-04-02 17:58:47] lat: 
+INFO [2019-04-02 17:58:47] lng: 
+INFO [2019-04-02 17:58:47] Post date: 2019-03-30T17:31:07.000Z
+INFO [2019-04-02 17:58:47] number of images: 0
+INFO [2019-04-02 17:58:47] video views: 9477915
+INFO [2019-04-02 17:58:47] post likes: 1738575
+INFO [2019-04-02 17:58:53] found comments: 122
+ERROR [2019-04-02 17:58:53] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 17:58:53] ERROR something went wrong getting comment
+INFO [2019-04-02 17:58:58] 121 comments.
+INFO [2019-04-02 17:58:58] Scraping Post Link: https://www.instagram.com/p/BvskofolZmM/
+INFO [2019-04-02 17:58:59] location_id: 0
+INFO [2019-04-02 17:58:59] location_url: 
+INFO [2019-04-02 17:58:59] location_name: 
+INFO [2019-04-02 17:58:59] lat: 
+INFO [2019-04-02 17:58:59] lng: 
+INFO [2019-04-02 17:58:59] Post date: 2019-04-01T03:04:32.000Z
+INFO [2019-04-02 17:58:59] number of images: 0
+INFO [2019-04-02 17:58:59] video views: 3104321
+INFO [2019-04-02 17:58:59] post likes: 726155
+INFO [2019-04-02 17:59:06] found comments: 122
+ERROR [2019-04-02 17:59:06] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 17:59:06] ERROR something went wrong getting comment
+INFO [2019-04-02 17:59:10] 121 comments.
+INFO [2019-04-02 17:59:10] User therock has 484 comments.
+INFO [2019-04-02 18:07:36] Extracting information from ardsketch
+INFO [2019-04-02 18:07:43] Bio Url is empty
+INFO [2019-04-02 18:07:43] alias name: a r a d h a n a
+INFO [2019-04-02 18:07:43] bio: I like to sketch.
+Will do portraits for pizza.
+DM if you want me to draw you
+📍 Ahmedabad, India
+INFO [2019-04-02 18:07:43] url: 
+INFO [2019-04-02 18:07:43] Posts: 72
+INFO [2019-04-02 18:07:43] Follower: 527
+INFO [2019-04-02 18:07:43] Following: {'count': 667}
+INFO [2019-04-02 18:07:43] isPrivate: False
+INFO [2019-04-02 18:07:45] Scraping Post Link: https://www.instagram.com/p/BldQyDzHfc-/
+INFO [2019-04-02 18:07:48] location_id: 234281926
+INFO [2019-04-02 18:07:48] location_url: https://www.instagram.com/explore/locations/234281926/ahmedabad-india/
+INFO [2019-04-02 18:07:48] location_name: Ahmedabad, India
+INFO [2019-04-02 18:07:48] lat: 23.0333
+INFO [2019-04-02 18:07:48] lng: 72.6167
+INFO [2019-04-02 18:07:48] Post date: 2018-07-20T14:42:27.000Z
+INFO [2019-04-02 18:07:48] number of images: 1
+INFO [2019-04-02 18:07:48] post image: https://scontent-bom1-2.cdninstagram.com/vp/e8ba97fe55f6a08cb7afa88f1a499ff8/5D481F71/t51.2885-15/e35/36940220_1771690049586691_2183215718613385216_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 18:07:48] alt text: No photo description available.
+INFO [2019-04-02 18:07:48] post likes: 164
+INFO [2019-04-02 18:07:48] found comments: 24
+INFO [2019-04-02 18:07:49] 24 comments.
+INFO [2019-04-02 18:07:49] caption: Acrylic on Canvas
+20"x30"
+Commissioned art.
+DM for customised artwork :) #ardsketch #artsy #artspiration #arts_help #artsandcrafts #art_daily #arch_daily #artistsoninstagram #helpanartist #artisan #silhouette #architecture #arch_more #sketchers #sketching #artinspo #ig #ig_art #igers #ahmedabad_igers #sunsetskies #colorful #dmforart #acrylic #canvas #acryliconcanvas #dmforart #dmforcommissions #amdavad #ahmedabad #ahmedabad_igers #iamdavad
+INFO [2019-04-02 18:07:49] mentions: 5
+INFO [2019-04-02 18:07:49] Scraping Post Link: https://www.instagram.com/p/BhkS-w0jRg2/
+INFO [2019-04-02 18:07:51] location_id: 213205633
+INFO [2019-04-02 18:07:51] location_url: https://www.instagram.com/explore/locations/213205633/budapest-hungary/
+INFO [2019-04-02 18:07:51] location_name: Budapest, Hungary
+INFO [2019-04-02 18:07:51] lat: 47.4719
+INFO [2019-04-02 18:07:51] lng: 19.0503
+INFO [2019-04-02 18:07:51] Post date: 2018-04-14T22:10:46.000Z
+INFO [2019-04-02 18:07:51] number of images: 1
+INFO [2019-04-02 18:07:51] post image: https://scontent-bom1-2.cdninstagram.com/vp/e23153acc01944bce7d52fca12fad23b/5D2FE5D1/t51.2885-15/e35/30076950_176038659875923_5059912731038056448_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 18:07:51] alt text: No photo description available.
+INFO [2019-04-02 18:07:51] post likes: 167
+INFO [2019-04-02 18:07:51] found comments: 15
+INFO [2019-04-02 18:07:52] 15 comments.
+INFO [2019-04-02 18:07:52] caption: Hungarian Parliament, Budapest
+Built in Gothic Revival style in 1905 .
+.
+This building literally took my breath away :) Me and @bubikaraina were tripping about its beauty the whole three days we spent there.
+.
+.
+(Sketched on Location, painted off.
+Watercolors and ink)
+
+#ardsketch #budapest #budapestparliament #hungary #hungarian #hungarianparliament #gothicrevival #architecture #gothicarchitecture #arch_more #arch_daily #arch_sketch #sketchdaily #sketch #sketchinspiration #sketchinstagram #instasketch #urbansketchers #uskparis #usk #sketcher #watercolor #architecture #arkitektura #architektura #europeanarchitecture #europetrip #sketchdailies #igers #instaart #sketchcollector
+INFO [2019-04-02 18:07:52] Scraping Post Link: https://www.instagram.com/p/BeigyEbgsSe/
+INFO [2019-04-02 18:07:54] location_id: 217661035
+INFO [2019-04-02 18:07:54] location_url: https://www.instagram.com/explore/locations/217661035/qutub-minar/
+INFO [2019-04-02 18:07:54] location_name: Qutub Minar
+INFO [2019-04-02 18:07:54] lat: 28.5254576164
+INFO [2019-04-02 18:07:54] lng: 77.187366843
+INFO [2019-04-02 18:07:54] Post date: 2018-01-29T15:58:42.000Z
+INFO [2019-04-02 18:07:54] number of images: 1
+INFO [2019-04-02 18:07:54] post image: https://scontent-bom1-2.cdninstagram.com/vp/cfe2b38f04ce66f4557515a3a199876c/5D4E92DC/t51.2885-15/e35/26158873_174968456449256_7828890778268073984_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 18:07:54] alt text: No photo description available.
+INFO [2019-04-02 18:07:54] post likes: 125
+INFO [2019-04-02 18:07:55] found comments: 5
+INFO [2019-04-02 18:07:55] 5 comments.
+INFO [2019-04-02 18:07:55] caption: Chilly evening.
+
+#ardsketch #sketch_dailies #sketch_collector #art_daily #sketch #sketchbook #monuments #unesco #sketch_hunter #archisketcher #arch_hunter #arch_sketch #arquitetura #arq_sketch #architecture_se7en #sketchinginspiration #sketchingideas #sketchinindia #qutubminar #delhigram #delhi #qutub #sketchbook #beautyinlines #dailyhealing #sunset #india #indianarchitecture #follow #qutbminar #mughal
+INFO [2019-04-02 18:07:55] Scraping Post Link: https://www.instagram.com/p/BhpMiTjj449/
+INFO [2019-04-02 18:07:57] location_id: 213262221
+INFO [2019-04-02 18:07:57] location_url: https://www.instagram.com/explore/locations/213262221/brno-czech-republic/
+INFO [2019-04-02 18:07:57] location_name: Brno, Czech Republic
+INFO [2019-04-02 18:07:57] lat: 49.195
+INFO [2019-04-02 18:07:57] lng: 16.6083
+INFO [2019-04-02 18:07:57] Post date: 2018-04-16T19:50:39.000Z
+INFO [2019-04-02 18:07:57] number of images: 1
+INFO [2019-04-02 18:07:57] post image: https://scontent-bom1-2.cdninstagram.com/vp/9ca8625f646993866eaee87696fb12c9/5D38D501/t51.2885-15/e35/30076952_234307630452292_2624028991253643264_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 18:07:57] alt text: No photo description available.
+INFO [2019-04-02 18:07:57] post likes: 136
+INFO [2019-04-02 18:07:57] found comments: 11
+INFO [2019-04-02 18:07:58] 11 comments.
+INFO [2019-04-02 18:07:58] caption: Villa Tugendhat, Brno
+
+Designed by Mies van der Rohe
+.
+. "God is in the Details"
+#ardsketch #brno #villatugendhat #miesvanderrohe #mies #modernism #modernist #modernarchitecture #minimalist #minimalism #minimal #details #instasketch #sketcher #urbansketchers #uskparis #usk #sketchinginspiration #ig #igers #czechia #miesianvilla #sketch_daily #sketchinstagram
+#europa #europetrip #travelblog
+INFO [2019-04-02 18:07:58] User ardsketch has 55 comments.
+INFO [2019-04-02 18:44:51] Extracting information from ikamalhaasan
+INFO [2019-04-02 18:44:56] Bio Url is empty
+INFO [2019-04-02 18:44:56] alias name: Kamal Haasan
+INFO [2019-04-02 18:44:56] bio: Actor, Director, Dancer, Writer, Producer, a neo-polityculturist.
+INFO [2019-04-02 18:44:56] url: 
+INFO [2019-04-02 18:44:56] Posts: 22
+INFO [2019-04-02 18:44:56] Follower: 250135
+INFO [2019-04-02 18:44:56] Following: {'count': 7}
+INFO [2019-04-02 18:44:56] isPrivate: False
+INFO [2019-04-02 18:44:58] Scraping Post Link: https://www.instagram.com/p/BoO2kaiAj4i/
+INFO [2019-04-02 18:45:00] location_id: 0
+INFO [2019-04-02 18:45:00] location_url: 
+INFO [2019-04-02 18:45:00] location_name: 
+INFO [2019-04-02 18:45:00] lat: 
+INFO [2019-04-02 18:45:00] lng: 
+INFO [2019-04-02 18:45:00] Post date: 2018-09-27T13:58:37.000Z
+INFO [2019-04-02 18:45:00] number of images: 0
+INFO [2019-04-02 18:45:00] video views: 152422
+INFO [2019-04-02 18:45:00] post likes: 36582
+INFO [2019-04-02 18:45:07] found comments: 122
+ERROR [2019-04-02 18:45:07] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 18:45:07] ERROR something went wrong getting comment
+INFO [2019-04-02 18:45:11] 121 comments.
+INFO [2019-04-02 18:45:11] Scraping Post Link: https://www.instagram.com/p/BqthvnVnYGM/
+INFO [2019-04-02 18:45:13] location_id: 0
+INFO [2019-04-02 18:45:13] location_url: 
+INFO [2019-04-02 18:45:13] location_name: 
+INFO [2019-04-02 18:45:13] lat: 
+INFO [2019-04-02 18:45:13] lng: 
+INFO [2019-04-02 18:45:13] Post date: 2018-11-28T04:55:29.000Z
+INFO [2019-04-02 18:45:13] number of images: 1
+INFO [2019-04-02 18:45:13] post image: https://scontent-bom1-2.cdninstagram.com/vp/0190372ff59f24d548b272518156f7bd/5D2BF744/t51.2885-15/e35/46032072_2135761890020792_1380539964132353999_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 18:45:13] alt text: Image may contain: text
+INFO [2019-04-02 18:45:13] post likes: 35083
+INFO [2019-04-02 18:45:20] found comments: 122
+ERROR [2019-04-02 18:45:20] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 18:45:20] ERROR something went wrong getting comment
+INFO [2019-04-02 18:45:24] 121 comments.
+INFO [2019-04-02 18:45:24] Scraping Post Link: https://www.instagram.com/p/BsQeJENnrsk/
+INFO [2019-04-02 18:45:26] location_id: 0
+INFO [2019-04-02 18:45:26] location_url: 
+INFO [2019-04-02 18:45:26] location_name: 
+INFO [2019-04-02 18:45:26] lat: 
+INFO [2019-04-02 18:45:26] lng: 
+INFO [2019-04-02 18:45:26] Post date: 2019-01-05T15:08:49.000Z
+INFO [2019-04-02 18:45:26] number of images: 1
+INFO [2019-04-02 18:45:26] post image: https://scontent-bom1-2.cdninstagram.com/vp/58c924a99955392529be0fd22759a065/5D4EE62C/t51.2885-15/e35/47692110_343492583151695_8033519397335418530_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 18:45:26] alt text: Image may contain: one or more people and text
+INFO [2019-04-02 18:45:26] post likes: 33285
+INFO [2019-04-02 18:45:32] found comments: 110
+INFO [2019-04-02 18:45:36] 110 comments.
+INFO [2019-04-02 18:45:36] Scraping Post Link: https://www.instagram.com/p/BtlKyrHH4eA/
+INFO [2019-04-02 18:45:37] location_id: 0
+INFO [2019-04-02 18:45:37] location_url: 
+INFO [2019-04-02 18:45:37] location_name: 
+INFO [2019-04-02 18:45:37] lat: 
+INFO [2019-04-02 18:45:37] lng: 
+INFO [2019-04-02 18:45:37] Post date: 2019-02-07T12:35:11.000Z
+INFO [2019-04-02 18:45:37] number of images: 1
+INFO [2019-04-02 18:45:37] post image: https://scontent-bom1-2.cdninstagram.com/vp/c24493a8858f96c7413c1053569b47c6/5D29D8C2/t51.2885-15/e35/49413214_1197221483785034_4692554414751428201_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 18:45:37] alt text: Image may contain: 2 people
+INFO [2019-04-02 18:45:37] post likes: 52392
+INFO [2019-04-02 18:45:44] found comments: 122
+ERROR [2019-04-02 18:45:44] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 18:45:44] ERROR something went wrong getting comment
+INFO [2019-04-02 18:45:49] 121 comments.
+INFO [2019-04-02 18:45:49] User ikamalhaasan has 473 comments.
+INFO [2019-04-02 19:02:20] Extracting information from khushsundar
+INFO [2019-04-02 19:02:24] Bio Url is empty
+INFO [2019-04-02 19:02:24] alias name: Khush
+INFO [2019-04-02 19:02:24] bio: Life is about living every moment with pride and a smile. National spokesperson of AICC 💕💕💕
+INFO [2019-04-02 19:02:24] url: 
+INFO [2019-04-02 19:02:24] Posts: 1738
+INFO [2019-04-02 19:02:24] Follower: 469341
+INFO [2019-04-02 19:02:24] Following: {'count': 109}
+INFO [2019-04-02 19:02:24] isPrivate: False
+INFO [2019-04-02 19:02:26] Scraping Post Link: https://www.instagram.com/p/BvrIhUug4-f/
+INFO [2019-04-02 19:02:27] location_id: 0
+INFO [2019-04-02 19:02:27] location_url: 
+INFO [2019-04-02 19:02:27] location_name: 
+INFO [2019-04-02 19:02:27] lat: 
+INFO [2019-04-02 19:02:27] lng: 
+INFO [2019-04-02 19:02:27] Post date: 2019-03-31T13:13:34.000Z
+INFO [2019-04-02 19:02:27] number of images: 1
+INFO [2019-04-02 19:02:27] post image: https://scontent-bom1-2.cdninstagram.com/vp/0cb4be319016c7ca87b636e9be912eae/5D2A2C38/t51.2885-15/e35/55823656_408719833019927_3752941938217240691_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:02:27] alt text: Image may contain: 1 person
+INFO [2019-04-02 19:02:27] post likes: 8360
+INFO [2019-04-02 19:02:32] found comments: 83
+INFO [2019-04-02 19:02:35] 83 comments.
+INFO [2019-04-02 19:02:35] Scraping Post Link: https://www.instagram.com/p/BvjlW6nA3vj/
+INFO [2019-04-02 19:02:37] location_id: 0
+INFO [2019-04-02 19:02:37] location_url: 
+INFO [2019-04-02 19:02:37] location_name: 
+INFO [2019-04-02 19:02:37] lat: 
+INFO [2019-04-02 19:02:37] lng: 
+INFO [2019-04-02 19:02:37] Post date: 2019-03-28T14:51:38.000Z
+INFO [2019-04-02 19:02:37] number of images: 1
+INFO [2019-04-02 19:02:37] post image: https://scontent-bom1-2.cdninstagram.com/vp/a2a9cfae6d4a64c56398d98c84266a07/5D36120E/t51.2885-15/e35/54194868_375129406661913_882522051447433982_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:02:37] alt text: Image may contain: 1 person
+INFO [2019-04-02 19:02:37] post likes: 4310
+INFO [2019-04-02 19:02:40] found comments: 54
+INFO [2019-04-02 19:02:42] 54 comments.
+INFO [2019-04-02 19:02:42] mentions: 1
+INFO [2019-04-02 19:02:42] Scraping Post Link: https://www.instagram.com/p/BvlIFFjgFAX/
+INFO [2019-04-02 19:02:43] location_id: 0
+INFO [2019-04-02 19:02:43] location_url: 
+INFO [2019-04-02 19:02:43] location_name: 
+INFO [2019-04-02 19:02:43] lat: 
+INFO [2019-04-02 19:02:43] lng: 
+INFO [2019-04-02 19:02:43] Post date: 2019-03-29T05:14:16.000Z
+INFO [2019-04-02 19:02:43] number of images: 1
+INFO [2019-04-02 19:02:43] post image: https://scontent-bom1-2.cdninstagram.com/vp/fd55123524b918382e7e910867334949/5D34E83C/t51.2885-15/e35/54226385_124421258715240_756759460399117540_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:02:43] alt text: Image may contain: 9 people, people standing
+INFO [2019-04-02 19:02:43] post likes: 25310
+INFO [2019-04-02 19:02:48] found comments: 80
+INFO [2019-04-02 19:02:51] 80 comments.
+INFO [2019-04-02 19:02:51] Scraping Post Link: https://www.instagram.com/p/BvuOKowAOH1/
+INFO [2019-04-02 19:02:52] location_id: 0
+INFO [2019-04-02 19:02:52] location_url: 
+INFO [2019-04-02 19:02:52] location_name: 
+INFO [2019-04-02 19:02:52] lat: 
+INFO [2019-04-02 19:02:52] lng: 
+INFO [2019-04-02 19:02:52] Post date: 2019-04-01T18:00:37.000Z
+INFO [2019-04-02 19:02:52] number of images: 1
+INFO [2019-04-02 19:02:52] post image: https://scontent-bom1-2.cdninstagram.com/vp/ecb033eca7fb8238ab5ea2f47f8551a3/5D3E386D/t51.2885-15/e35/54732118_403092257190241_3160479637249476898_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:02:52] alt text: Image may contain: 1 person, closeup
+INFO [2019-04-02 19:02:52] post likes: 4287
+INFO [2019-04-02 19:02:54] found comments: 43
+INFO [2019-04-02 19:02:55] 43 comments.
+INFO [2019-04-02 19:02:55] User khushsundar has 260 comments.
+INFO [2019-04-02 19:03:36] Extracting information from ikamalhassan
+INFO [2019-04-02 19:05:49] Extracting information from rahulgandhi
+INFO [2019-04-02 19:05:54] alias name: Rahul Gandhi
+INFO [2019-04-02 19:05:54] bio: President, Indian National Congress
+INFO [2019-04-02 19:05:54] url: www.fb.com/RahulGandhi
+INFO [2019-04-02 19:05:54] Posts: 212
+INFO [2019-04-02 19:05:54] Follower: 636262
+INFO [2019-04-02 19:05:54] Following: {'count': 9}
+INFO [2019-04-02 19:05:54] isPrivate: False
+INFO [2019-04-02 19:05:56] Scraping Post Link: https://www.instagram.com/p/BvtX4Nwg073/
+INFO [2019-04-02 19:05:58] location_id: 0
+INFO [2019-04-02 19:05:58] location_url: 
+INFO [2019-04-02 19:05:58] location_name: 
+INFO [2019-04-02 19:05:58] lat: 
+INFO [2019-04-02 19:05:58] lng: 
+INFO [2019-04-02 19:05:58] Post date: 2019-04-01T10:06:15.000Z
+INFO [2019-04-02 19:05:58] number of images: 1
+INFO [2019-04-02 19:05:58] post image: https://scontent-bom1-2.cdninstagram.com/vp/6803b2bf1359f0e105d8256416fe2c6b/5D48F138/t51.2885-15/e35/54247456_563462000817901_200877634734437637_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:05:58] alt text: Image may contain: 7 people, outdoor
+INFO [2019-04-02 19:05:58] post likes: 43125
+INFO [2019-04-02 19:06:04] found comments: 122
+ERROR [2019-04-02 19:06:04] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:06:04] ERROR something went wrong getting comment
+INFO [2019-04-02 19:06:09] 121 comments.
+INFO [2019-04-02 19:06:09] Scraping Post Link: https://www.instagram.com/p/BvmBLYNghm8/
+INFO [2019-04-02 19:06:10] location_id: 0
+INFO [2019-04-02 19:06:10] location_url: 
+INFO [2019-04-02 19:06:10] location_name: 
+INFO [2019-04-02 19:06:10] lat: 
+INFO [2019-04-02 19:06:10] lng: 
+INFO [2019-04-02 19:06:10] Post date: 2019-03-29T13:33:12.000Z
+INFO [2019-04-02 19:06:10] number of images: 1
+INFO [2019-04-02 19:06:10] post image: https://scontent-bom1-2.cdninstagram.com/vp/4c303656351829160ce3d93ce5e182ae/5D4E0619/t51.2885-15/e35/54247867_776999266020665_6762421616357285534_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:06:10] alt text: Image may contain: 6 people, people sitting, table and indoor
+INFO [2019-04-02 19:06:10] post likes: 83881
+INFO [2019-04-02 19:06:10] found comments: 2
+ERROR [2019-04-02 19:06:10] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:06:10] ERROR something went wrong getting comment
+ERROR [2019-04-02 19:06:10] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:06:10] ERROR something went wrong getting comment
+INFO [2019-04-02 19:06:10] 0 comments.
+INFO [2019-04-02 19:06:10] Scraping Post Link: https://www.instagram.com/p/Bvv0MvngYVj/
+INFO [2019-04-02 19:06:12] location_id: 0
+INFO [2019-04-02 19:06:12] location_url: 
+INFO [2019-04-02 19:06:12] location_name: 
+INFO [2019-04-02 19:06:12] lat: 
+INFO [2019-04-02 19:06:12] lng: 
+INFO [2019-04-02 19:06:12] Post date: 2019-04-02T08:52:12.000Z
+INFO [2019-04-02 19:06:12] number of images: 2
+INFO [2019-04-02 19:06:12] post image: https://scontent-bom1-2.cdninstagram.com/vp/dc823b74ae9939eb3bf6ffdf312deb1f/5D3DEBF7/t51.2885-15/e35/54446883_423942421504289_5207377124074263648_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:06:12] alt text: Image may contain: 1 person, crowd
+INFO [2019-04-02 19:06:12] post image: https://scontent-bom1-2.cdninstagram.com/vp/acfdab29a289f8766f84aacd7021d29d/5D4952D8/t51.2885-15/e35/54247373_658317474630031_1644011990197753427_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:06:12] alt text: Image may contain: 2 people
+INFO [2019-04-02 19:06:12] post likes: 28643
+INFO [2019-04-02 19:06:12] found comments: 2
+ERROR [2019-04-02 19:06:12] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:06:12] ERROR something went wrong getting comment
+ERROR [2019-04-02 19:06:12] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:06:12] ERROR something went wrong getting comment
+INFO [2019-04-02 19:06:12] 0 comments.
+INFO [2019-04-02 19:06:12] Scraping Post Link: https://www.instagram.com/p/Bvlx_iMATSb/
+INFO [2019-04-02 19:06:13] location_id: 0
+INFO [2019-04-02 19:06:13] location_url: 
+INFO [2019-04-02 19:06:13] location_name: 
+INFO [2019-04-02 19:06:13] lat: 
+INFO [2019-04-02 19:06:13] lng: 
+INFO [2019-04-02 19:06:13] Post date: 2019-03-29T11:20:31.000Z
+INFO [2019-04-02 19:06:13] number of images: 1
+INFO [2019-04-02 19:06:13] post image: https://scontent-bom1-2.cdninstagram.com/vp/e165cc5540dbda14ea626ca57a903960/5D2E6046/t51.2885-15/e35/54446849_403415233782714_3557964002455602548_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:06:13] alt text: Image may contain: 2 people, people standing
+INFO [2019-04-02 19:06:13] post likes: 92290
+INFO [2019-04-02 19:06:21] found comments: 122
+ERROR [2019-04-02 19:06:21] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:06:21] ERROR something went wrong getting comment
+INFO [2019-04-02 19:06:26] 121 comments.
+INFO [2019-04-02 19:06:26] User rahulgandhi has 242 comments.
+INFO [2019-04-02 19:08:41] Extracting information from priyankagandhivadra
+INFO [2019-04-02 19:14:04] Extracting information from anoopkarnik
+INFO [2019-04-02 19:14:06] Bio Url is empty
+INFO [2019-04-02 19:14:06] alias name: Anoop Karnik
+INFO [2019-04-02 19:14:06] bio: Hakuna Matata, Carpedium and Si vis pacem para bellum are the top three quotes i like to live by!!!
+INFO [2019-04-02 19:14:06] url: 
+INFO [2019-04-02 19:14:06] Posts: 64
+INFO [2019-04-02 19:14:06] Follower: 502
+INFO [2019-04-02 19:14:06] Following: {'count': 247}
+INFO [2019-04-02 19:14:06] isPrivate: False
+INFO [2019-04-02 19:14:08] Scraping Post Link: https://www.instagram.com/p/Bs7Zx2Ulxc5/
+INFO [2019-04-02 19:14:11] location_id: 290855949
+INFO [2019-04-02 19:14:11] location_url: https://www.instagram.com/explore/locations/290855949/international-institute-of-information-technology-hyderabad/
+INFO [2019-04-02 19:14:11] location_name: International Institute of Information Technology, Hyderabad
+INFO [2019-04-02 19:14:11] lat: 17.4459543401
+INFO [2019-04-02 19:14:11] lng: 78.3493992577
+INFO [2019-04-02 19:14:11] Post date: 2019-01-22T07:24:15.000Z
+INFO [2019-04-02 19:14:11] number of images: 0
+INFO [2019-04-02 19:14:11] video views: 318
+INFO [2019-04-02 19:14:11] post likes: 24
+INFO [2019-04-02 19:14:11] found comments: 14
+ERROR [2019-04-02 19:14:11] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:14:11] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:14:11] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:14:11] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:14:11] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:14:11] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:14:11] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:14:11] ERROR something went wrong getting user_commented
+INFO [2019-04-02 19:14:11] 6 comments.
+INFO [2019-04-02 19:14:11] caption: 
+INFO [2019-04-02 19:14:11] Scraping Post Link: https://www.instagram.com/p/Bs7YSJPFg2A/
+INFO [2019-04-02 19:14:14] location_id: 290855949
+INFO [2019-04-02 19:14:14] location_url: https://www.instagram.com/explore/locations/290855949/international-institute-of-information-technology-hyderabad/
+INFO [2019-04-02 19:14:14] location_name: International Institute of Information Technology, Hyderabad
+INFO [2019-04-02 19:14:14] lat: 17.4459543401
+INFO [2019-04-02 19:14:14] lng: 78.3493992577
+INFO [2019-04-02 19:14:14] Post date: 2019-01-22T07:04:58.000Z
+INFO [2019-04-02 19:14:14] number of images: 2
+INFO [2019-04-02 19:14:14] post image: https://scontent-bom1-2.cdninstagram.com/vp/8b7b82472bc8465fa0078c25fd6cf9e3/5D291F5D/t51.2885-15/e35/49956618_372579273553959_2929715801606758126_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:14:14] alt text: Image may contain: one or more people
+INFO [2019-04-02 19:14:14] post image: https://scontent-bom1-2.cdninstagram.com/vp/a9646cc241a0c252ae54f917ecb08602/5D459DC3/t51.2885-15/e35/50618318_122570695464953_684637952472562955_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:14:14] alt text: Image may contain: night, tree, sky and outdoor
+INFO [2019-04-02 19:14:14] post likes: 26
+INFO [2019-04-02 19:14:14] found comments: 3
+ERROR [2019-04-02 19:14:14] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:14:14] ERROR something went wrong getting comment
+ERROR [2019-04-02 19:14:14] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:14:14] ERROR something went wrong getting comment
+ERROR [2019-04-02 19:14:14] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:14:14] ERROR something went wrong getting comment
+INFO [2019-04-02 19:14:14] 0 comments.
+INFO [2019-04-02 19:14:14] Scraping Post Link: https://www.instagram.com/p/BvRR7bRBnGs/
+INFO [2019-04-02 19:14:16] location_id: 12877535
+INFO [2019-04-02 19:14:16] location_url: https://www.instagram.com/explore/locations/12877535/madhapur/
+INFO [2019-04-02 19:14:16] location_name: Madhapur
+INFO [2019-04-02 19:14:16] lat: 17.4405555556
+INFO [2019-04-02 19:14:16] lng: 78.3911111111
+INFO [2019-04-02 19:14:16] Post date: 2019-03-21T12:15:31.000Z
+INFO [2019-04-02 19:14:16] number of images: 1
+INFO [2019-04-02 19:14:16] post image: https://scontent-bom1-2.cdninstagram.com/vp/9da5802dffa8c002f47169346a213d8d/5D2BB5FD/t51.2885-15/e35/52681236_345977812698027_8877598402455030202_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:14:16] alt text: Image may contain: 4 people, beard
+INFO [2019-04-02 19:14:17] post likes: 37
+INFO [2019-04-02 19:14:17] 1 comments.
+INFO [2019-04-02 19:14:17] caption: Bura na maano holi hain!!!
+INFO [2019-04-02 19:14:17] mentions: 3
+INFO [2019-04-02 19:14:17] Scraping Post Link: https://www.instagram.com/p/BsalHPTlC5T/
+INFO [2019-04-02 19:14:19] location_id: 771825499851610
+INFO [2019-04-02 19:14:19] location_url: https://www.instagram.com/explore/locations/771825499851610/amb-cinemas/
+INFO [2019-04-02 19:14:19] location_name: AMB-Cinemas
+INFO [2019-04-02 19:14:19] lat: 17.45794
+INFO [2019-04-02 19:14:19] lng: 78.371
+INFO [2019-04-02 19:14:19] Post date: 2019-01-09T13:22:08.000Z
+INFO [2019-04-02 19:14:19] number of images: 1
+INFO [2019-04-02 19:14:19] post image: https://scontent-bom1-2.cdninstagram.com/vp/c31e238a4bbdde1d7850df3724e17afc/5D438901/t51.2885-15/e35/49858392_213699059582588_3305182221750193816_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:14:19] alt text: Image may contain: 4 people, indoor
+INFO [2019-04-02 19:14:19] post likes: 39
+INFO [2019-04-02 19:14:19] 1 comments.
+INFO [2019-04-02 19:14:19] caption: 
+INFO [2019-04-02 19:14:19] mentions: 3
+INFO [2019-04-02 19:14:19] User anoopkarnik has 8 comments.
+INFO [2019-04-02 19:26:29] Extracting information from beingsalmankhan
+INFO [2019-04-02 19:26:31] Bio is empty
+INFO [2019-04-02 19:26:31] alias name: Salman Khan
+INFO [2019-04-02 19:26:31] bio: 
+INFO [2019-04-02 19:26:31] url: bit.ly/Safar-Notebook
+INFO [2019-04-02 19:26:31] Posts: 655
+INFO [2019-04-02 19:26:31] Follower: 21485866
+INFO [2019-04-02 19:26:31] Following: {'count': 8}
+INFO [2019-04-02 19:26:31] isPrivate: False
+INFO [2019-04-02 19:26:33] Scraping Post Link: https://www.instagram.com/p/BvwLtm7F2ZJ/
+INFO [2019-04-02 19:26:34] location_id: 0
+INFO [2019-04-02 19:26:34] location_url: 
+INFO [2019-04-02 19:26:34] location_name: 
+INFO [2019-04-02 19:26:34] lat: 
+INFO [2019-04-02 19:26:34] lng: 
+INFO [2019-04-02 19:26:34] Post date: 2019-04-02T12:17:40.000Z
+INFO [2019-04-02 19:26:34] number of images: 1
+INFO [2019-04-02 19:26:34] post image: https://scontent-bom1-2.cdninstagram.com/vp/fb0a336ad6a0a69f01feedf0fea7c14d/5D4EB771/t51.2885-15/e35/53300162_362961050974025_596462854112808943_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:26:34] alt text: Image may contain: one or more people, sky and outdoor
+INFO [2019-04-02 19:26:34] post likes: 291917
+INFO [2019-04-02 19:26:34] found comments: 30
+ERROR [2019-04-02 19:26:35] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:35] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:35] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:35] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:35] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:35] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:35] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:35] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:35] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:35] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:35] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:35] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:35] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:35] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:35] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:36] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:36] ERROR something went wrong getting user_commented
+INFO [2019-04-02 19:26:36] 13 comments.
+INFO [2019-04-02 19:26:36] Scraping Post Link: https://www.instagram.com/p/BveLSemF95v/
+INFO [2019-04-02 19:26:40] location_id: 0
+INFO [2019-04-02 19:26:40] location_url: 
+INFO [2019-04-02 19:26:40] location_name: 
+INFO [2019-04-02 19:26:40] lat: 
+INFO [2019-04-02 19:26:40] lng: 
+INFO [2019-04-02 19:26:40] Post date: 2019-03-26T12:31:34.000Z
+INFO [2019-04-02 19:26:40] number of images: 0
+INFO [2019-04-02 19:26:40] video views: 2117031
+INFO [2019-04-02 19:26:40] post likes: 736354
+INFO [2019-04-02 19:26:40] found comments: 30
+ERROR [2019-04-02 19:26:40] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:40] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:40] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:41] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:41] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:41] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:41] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:41] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:41] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:41] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:41] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:41] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:41] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:41] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:41] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:41] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:41] ERROR something went wrong getting user_commented
+INFO [2019-04-02 19:26:41] 13 comments.
+INFO [2019-04-02 19:26:41] Scraping Post Link: https://www.instagram.com/p/BvrJYOFgkt4/
+INFO [2019-04-02 19:26:43] location_id: 0
+INFO [2019-04-02 19:26:43] location_url: 
+INFO [2019-04-02 19:26:43] location_name: 
+INFO [2019-04-02 19:26:43] lat: 
+INFO [2019-04-02 19:26:43] lng: 
+INFO [2019-04-02 19:26:43] Post date: 2019-03-31T13:24:50.000Z
+INFO [2019-04-02 19:26:43] number of images: 0
+INFO [2019-04-02 19:26:43] video views: 3557267
+INFO [2019-04-02 19:26:43] post likes: 1054692
+INFO [2019-04-02 19:26:44] found comments: 32
+ERROR [2019-04-02 19:26:44] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:44] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:44] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:44] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:44] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:44] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:44] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:44] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:44] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:44] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:44] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:44] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:44] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:45] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:45] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:45] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:45] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:45] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:45] ERROR something went wrong getting user_commented
+INFO [2019-04-02 19:26:45] 13 comments.
+INFO [2019-04-02 19:26:45] Scraping Post Link: https://www.instagram.com/p/BvtFMmAFLuF/
+INFO [2019-04-02 19:26:46] location_id: 0
+INFO [2019-04-02 19:26:46] location_url: 
+INFO [2019-04-02 19:26:46] location_name: 
+INFO [2019-04-02 19:26:46] lat: 
+INFO [2019-04-02 19:26:46] lng: 
+INFO [2019-04-02 19:26:46] Post date: 2019-04-01T07:23:00.000Z
+INFO [2019-04-02 19:26:46] number of images: 1
+INFO [2019-04-02 19:26:46] post image: https://scontent-bom1-2.cdninstagram.com/vp/8152d23a208b2d806934242a84530f16/5D495CD8/t51.2885-15/e35/56218105_2262618094000875_958399282558368671_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:26:46] alt text: Image may contain: 2 people, sunglasses and outdoor
+INFO [2019-04-02 19:26:46] post likes: 1309303
+INFO [2019-04-02 19:26:47] found comments: 36
+ERROR [2019-04-02 19:26:47] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:47] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:47] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:47] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:47] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:47] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:47] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:47] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:47] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:47] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:47] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:47] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:47] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:47] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:47] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:47] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:48] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:48] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:48] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:48] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:48] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:48] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:26:48] ERROR something went wrong getting user_commented
+INFO [2019-04-02 19:26:48] 13 comments.
+INFO [2019-04-02 19:26:48] User beingsalmankhan has 52 comments.
+INFO [2019-04-02 19:30:11] Extracting information from narendramodi
+INFO [2019-04-02 19:30:13] alias name: Chowkidar Narendra Modi
+INFO [2019-04-02 19:30:13] bio: Prime Minister of India 🇮🇳
+INFO [2019-04-02 19:30:13] url: www.narendramodi.in
+INFO [2019-04-02 19:30:13] Posts: 273
+INFO [2019-04-02 19:30:13] Follower: 19769803
+INFO [2019-04-02 19:30:13] Following: {'count': 0}
+INFO [2019-04-02 19:30:13] isPrivate: False
+INFO [2019-04-02 19:30:15] Scraping Post Link: https://www.instagram.com/p/BvOOD9yl4mM/
+INFO [2019-04-02 19:30:17] location_id: 0
+INFO [2019-04-02 19:30:17] location_url: 
+INFO [2019-04-02 19:30:17] location_name: 
+INFO [2019-04-02 19:30:17] lat: 
+INFO [2019-04-02 19:30:17] lng: 
+INFO [2019-04-02 19:30:17] Post date: 2019-03-20T07:52:49.000Z
+INFO [2019-04-02 19:30:17] number of images: 0
+INFO [2019-04-02 19:30:17] video views: 2551914
+INFO [2019-04-02 19:30:17] post likes: 607889
+INFO [2019-04-02 19:30:17] found comments: 38
+ERROR [2019-04-02 19:30:17] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:17] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:17] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:17] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:18] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:18] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:18] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:18] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:18] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:18] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:18] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:18] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:18] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:18] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:18] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:18] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:18] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:18] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:18] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:18] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:19] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:19] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:19] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:19] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:19] ERROR something went wrong getting user_commented
+INFO [2019-04-02 19:30:19] 13 comments.
+INFO [2019-04-02 19:30:19] Scraping Post Link: https://www.instagram.com/p/Bvrbm_mFK-h/
+INFO [2019-04-02 19:30:20] location_id: 0
+INFO [2019-04-02 19:30:20] location_url: 
+INFO [2019-04-02 19:30:20] location_name: 
+INFO [2019-04-02 19:30:20] lat: 
+INFO [2019-04-02 19:30:20] lng: 
+INFO [2019-04-02 19:30:20] Post date: 2019-03-31T16:00:22.000Z
+INFO [2019-04-02 19:30:20] number of images: 1
+INFO [2019-04-02 19:30:20] post image: https://scontent-bom1-2.cdninstagram.com/vp/bcd3345497dc2229be2c33e054ccc8e9/5D42CF23/t51.2885-15/e35/54513166_303337250348306_8231832328959843699_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:30:20] alt text: Image may contain: one or more people and text
+INFO [2019-04-02 19:30:20] post likes: 1020476
+INFO [2019-04-02 19:30:21] found comments: 38
+ERROR [2019-04-02 19:30:21] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:21] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:21] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:21] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:21] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:21] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:21] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:21] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:21] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:21] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:21] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:21] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:21] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:21] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:21] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:22] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:22] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:22] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:22] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:22] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:22] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:22] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:22] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:22] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:22] ERROR something went wrong getting user_commented
+INFO [2019-04-02 19:30:22] 13 comments.
+INFO [2019-04-02 19:30:22] Scraping Post Link: https://www.instagram.com/p/Bvj0DazFD2_/
+INFO [2019-04-02 19:30:27] location_id: 251032516
+INFO [2019-04-02 19:30:27] location_url: https://www.instagram.com/explore/locations/251032516/jammu/
+INFO [2019-04-02 19:30:27] location_name: Jammu
+INFO [2019-04-02 19:30:27] lat: 32.7138
+INFO [2019-04-02 19:30:27] lng: 74.8697
+INFO [2019-04-02 19:30:27] Post date: 2019-03-28T17:01:17.000Z
+INFO [2019-04-02 19:30:27] number of images: 0
+INFO [2019-04-02 19:30:27] video views: 1827560
+INFO [2019-04-02 19:30:27] post likes: 564632
+INFO [2019-04-02 19:30:27] found comments: 38
+ERROR [2019-04-02 19:30:27] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:27] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:27] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:27] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:27] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:27] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:28] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:28] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:28] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:28] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:28] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:28] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:28] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:28] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:28] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:28] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:28] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:28] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:28] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:28] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:28] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:28] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:29] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:29] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:29] ERROR something went wrong getting user_commented
+INFO [2019-04-02 19:30:29] 13 comments.
+INFO [2019-04-02 19:30:29] Scraping Post Link: https://www.instagram.com/p/Bvtwm6vFxWs/
+INFO [2019-04-02 19:30:30] location_id: 0
+INFO [2019-04-02 19:30:30] location_url: 
+INFO [2019-04-02 19:30:30] location_name: 
+INFO [2019-04-02 19:30:30] lat: 
+INFO [2019-04-02 19:30:30] lng: 
+INFO [2019-04-02 19:30:30] Post date: 2019-04-01T13:47:45.000Z
+INFO [2019-04-02 19:30:30] number of images: 0
+INFO [2019-04-02 19:30:30] video views: 1825167
+INFO [2019-04-02 19:30:30] post likes: 571757
+INFO [2019-04-02 19:30:30] found comments: 38
+ERROR [2019-04-02 19:30:30] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:30] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:31] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:31] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:31] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:31] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:31] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:31] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:31] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:31] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:31] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:31] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:31] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:31] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:31] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:31] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:31] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:31] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:31] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:31] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:32] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:32] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:32] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:32] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:30:32] ERROR something went wrong getting user_commented
+INFO [2019-04-02 19:30:32] 13 comments.
+INFO [2019-04-02 19:30:32] User narendramodi has 52 comments.
+INFO [2019-04-02 19:38:22] Extracting information from deepakkalalofficial
+INFO [2019-04-02 19:38:23] Bio Url is empty
+INFO [2019-04-02 19:38:23] alias name: Deepak Kalal
+INFO [2019-04-02 19:38:23] bio: for business enquries:- therealdeepakkalal@gmail.com
+INFO [2019-04-02 19:38:23] url: 
+INFO [2019-04-02 19:38:23] Posts: 2174
+INFO [2019-04-02 19:38:23] Follower: 97309
+INFO [2019-04-02 19:38:23] Following: {'count': 90}
+INFO [2019-04-02 19:38:23] isPrivate: False
+INFO [2019-04-02 19:38:25] Scraping Post Link: https://www.instagram.com/p/BvjxcRwgmcc/
+INFO [2019-04-02 19:38:28] location_id: 133941633810606
+INFO [2019-04-02 19:38:28] location_url: https://www.instagram.com/explore/locations/133941633810606/dal-lake-shrinagar/
+INFO [2019-04-02 19:38:28] location_name: Dal Lake ,Shrinagar
+INFO [2019-04-02 19:38:28] lat: 34.0826257
+INFO [2019-04-02 19:38:28] lng: 74.834516
+INFO [2019-04-02 19:38:28] Post date: 2019-03-28T17:05:10.000Z
+INFO [2019-04-02 19:38:28] number of images: 0
+INFO [2019-04-02 19:38:28] video views: 33017
+INFO [2019-04-02 19:38:28] post likes: 2298
+INFO [2019-04-02 19:38:28] found comments: 34
+ERROR [2019-04-02 19:38:28] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:28] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:28] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:28] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:28] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:28] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:29] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:29] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:29] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:29] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:29] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:29] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:29] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:29] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:29] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:29] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:29] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:29] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:29] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:29] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:29] ERROR something went wrong getting user_commented
+INFO [2019-04-02 19:38:29] 13 comments.
+INFO [2019-04-02 19:38:29] caption: OMG.... I'm going to be Takli Next Year.. Tag ur Takloo friends...
+INFO [2019-04-02 19:38:29] Scraping Post Link: https://www.instagram.com/p/BvtdPstAr7V/
+INFO [2019-04-02 19:38:33] location_id: 1026331441
+INFO [2019-04-02 19:38:33] location_url: https://www.instagram.com/explore/locations/1026331441/mohali-chandigarh/
+INFO [2019-04-02 19:38:33] location_name: Mohali, Chandigarh
+INFO [2019-04-02 19:38:33] lat: 30.68409
+INFO [2019-04-02 19:38:33] lng: 76.74368
+INFO [2019-04-02 19:38:33] Post date: 2019-04-01T10:53:09.000Z
+INFO [2019-04-02 19:38:33] number of images: 1
+INFO [2019-04-02 19:38:33] post image: https://scontent-bom1-2.cdninstagram.com/vp/1628f362b42d363a6dcb6ebdded4f013/5D5052D2/t51.2885-15/e35/54800495_1045721738953388_7910467082239694645_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:38:33] alt text: Image may contain: 1 person
+INFO [2019-04-02 19:38:33] post likes: 3096
+INFO [2019-04-02 19:38:33] found comments: 18
+ERROR [2019-04-02 19:38:33] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:33] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:33] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:33] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:34] ERROR something went wrong getting user_commented
+INFO [2019-04-02 19:38:34] 13 comments.
+INFO [2019-04-02 19:38:34] caption: Is She @sushmitasen47 ? Kha Gaye na doka? She is my heroin @pooja_bhasin for the upcoming Punjabi album Next Lavel.... This break up Anthem of 2018 is sung by @iamsukhbirgill ... Produced by Slay Records... Releasing On 10th April... Nine days r left... Plz support me fans... We have to make it More Than Thousand Millions Views Minimum...
+INFO [2019-04-02 19:38:34] Scraping Post Link: https://www.instagram.com/p/BvqlkQnAQ_0/
+INFO [2019-04-02 19:38:36] location_id: 292098942
+INFO [2019-04-02 19:38:36] location_url: https://www.instagram.com/explore/locations/292098942/pulwama-kashmir/
+INFO [2019-04-02 19:38:36] location_name: Pulwama, Kashmir
+INFO [2019-04-02 19:38:36] lat: 34.080971
+INFO [2019-04-02 19:38:36] lng: 74.803757
+INFO [2019-04-02 19:38:36] Post date: 2019-03-31T08:11:00.000Z
+INFO [2019-04-02 19:38:36] number of images: 0
+INFO [2019-04-02 19:38:37] video views: 17345
+INFO [2019-04-02 19:38:37] post likes: 2073
+INFO [2019-04-02 19:38:37] found comments: 30
+ERROR [2019-04-02 19:38:37] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:37] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:37] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:37] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:37] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:37] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:37] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:37] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:37] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:37] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:37] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:38] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:38] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:38] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:38] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:38] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:38] ERROR something went wrong getting user_commented
+INFO [2019-04-02 19:38:38] 13 comments.
+INFO [2019-04-02 19:38:38] caption: 
+INFO [2019-04-02 19:38:38] Scraping Post Link: https://www.instagram.com/p/BvracPVg6QZ/
+INFO [2019-04-02 19:38:42] location_id: 1026331441
+INFO [2019-04-02 19:38:42] location_url: https://www.instagram.com/explore/locations/1026331441/mohali-chandigarh/
+INFO [2019-04-02 19:38:42] location_name: Mohali, Chandigarh
+INFO [2019-04-02 19:38:42] lat: 30.68409
+INFO [2019-04-02 19:38:42] lng: 76.74368
+INFO [2019-04-02 19:38:42] Post date: 2019-03-31T15:50:10.000Z
+INFO [2019-04-02 19:38:42] number of images: 1
+INFO [2019-04-02 19:38:42] post image: https://scontent-bom1-2.cdninstagram.com/vp/7a70943b9258324f07ee6a90a085dfd7/5D437FAD/t51.2885-15/e35/54277480_190315845276986_1658617104893851543_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:38:42] alt text: Image may contain: 3 people, text
+INFO [2019-04-02 19:38:42] post likes: 2544
+INFO [2019-04-02 19:38:42] found comments: 24
+ERROR [2019-04-02 19:38:42] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:42] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:42] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:42] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:42] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:42] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:42] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:43] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:43] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:43] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:38:43] ERROR something went wrong getting user_commented
+INFO [2019-04-02 19:38:43] 13 comments.
+INFO [2019-04-02 19:38:43] caption: Deepak Kalal Debut for the Punjabi Music Album... Next Level... Here we gooooo!!!! Dynamite is about to explode - Sukhbir Gill's debut track NEXT LEVEL will be out on 10th April. Slay Records brings to you the biggest breakup anthem of 2019 which feats Deepak Kalal... So put on your dancing shoes and get ready to have some fun 🤘 By the way meri heroine @pooja_bhasin kaise lagi?
+INFO [2019-04-02 19:38:43] User deepakkalalofficial has 52 comments.
+INFO [2019-04-02 19:39:55] Extracting information from rakhisawant2511
+INFO [2019-04-02 19:39:56] alias name: Rakhi Sawant
+INFO [2019-04-02 19:39:56] bio: Dancer, Actress, Model & Politician.
+INFO [2019-04-02 19:39:56] url: youtube.com/rakhisawantt
+INFO [2019-04-02 19:39:56] Posts: 2548
+INFO [2019-04-02 19:39:56] Follower: 590702
+INFO [2019-04-02 19:39:56] Following: {'count': 135}
+INFO [2019-04-02 19:39:56] isPrivate: False
+INFO [2019-04-02 19:39:58] Scraping Post Link: https://www.instagram.com/p/Bvq3UyIgP8r/
+INFO [2019-04-02 19:40:00] location_id: 0
+INFO [2019-04-02 19:40:00] location_url: 
+INFO [2019-04-02 19:40:00] location_name: 
+INFO [2019-04-02 19:40:00] lat: 
+INFO [2019-04-02 19:40:00] lng: 
+INFO [2019-04-02 19:40:00] Post date: 2019-03-31T10:44:23.000Z
+INFO [2019-04-02 19:40:00] number of images: 0
+INFO [2019-04-02 19:40:00] video views: 30662
+INFO [2019-04-02 19:40:00] post likes: 1904
+INFO [2019-04-02 19:40:00] found comments: 22
+ERROR [2019-04-02 19:40:00] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:00] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:00] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:00] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:00] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:00] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:00] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:00] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:01] ERROR something went wrong getting user_commented
+INFO [2019-04-02 19:40:01] 13 comments.
+INFO [2019-04-02 19:40:01] Scraping Post Link: https://www.instagram.com/p/Bvqfp_uAOJ0/
+INFO [2019-04-02 19:40:02] location_id: 0
+INFO [2019-04-02 19:40:02] location_url: 
+INFO [2019-04-02 19:40:02] location_name: 
+INFO [2019-04-02 19:40:02] lat: 
+INFO [2019-04-02 19:40:02] lng: 
+INFO [2019-04-02 19:40:02] Post date: 2019-03-31T07:16:29.000Z
+INFO [2019-04-02 19:40:02] number of images: 1
+INFO [2019-04-02 19:40:02] post image: https://scontent-bom1-2.cdninstagram.com/vp/2220edcb9c28cb5720ed0512a33a05ac/5D41E33A/t51.2885-15/e35/53343740_268096597467438_1651633812090577161_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:40:02] alt text: Image may contain: 2 people
+INFO [2019-04-02 19:40:02] post likes: 8997
+INFO [2019-04-02 19:40:02] found comments: 37
+ERROR [2019-04-02 19:40:02] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:02] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:02] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:02] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:03] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:03] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:03] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:03] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:03] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:03] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:03] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:03] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:03] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:03] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:03] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:03] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:03] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:03] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:03] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:03] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:04] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:04] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:04] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:04] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:04] ERROR something went wrong getting user_commented
+INFO [2019-04-02 19:40:04] 12 comments.
+INFO [2019-04-02 19:40:04] Scraping Post Link: https://www.instagram.com/p/Bvqd9N6A2Df/
+INFO [2019-04-02 19:40:06] location_id: 0
+INFO [2019-04-02 19:40:06] location_url: 
+INFO [2019-04-02 19:40:06] location_name: 
+INFO [2019-04-02 19:40:06] lat: 
+INFO [2019-04-02 19:40:06] lng: 
+INFO [2019-04-02 19:40:06] Post date: 2019-03-31T07:01:38.000Z
+INFO [2019-04-02 19:40:06] number of images: 2
+INFO [2019-04-02 19:40:06] post image: https://scontent-bom1-2.cdninstagram.com/vp/1c5a40f93cac643bdd0150b6ae15b6e4/5D3219CC/t51.2885-15/e35/54512809_962852354060359_7829144212928544644_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:40:06] alt text: Image may contain: 8 people, people standing, shoes and outdoor
+INFO [2019-04-02 19:40:06] post image: https://scontent-bom1-2.cdninstagram.com/vp/4b3a0b6d1c309b4a67abb21f0ffe5955/5D2BCB1F/t51.2885-15/e35/54513420_2422169721361377_6434552081491790475_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:40:06] alt text: Image may contain: 7 people, people sitting and outdoor
+INFO [2019-04-02 19:40:06] post likes: 7825
+INFO [2019-04-02 19:40:06] found comments: 10
+ERROR [2019-04-02 19:40:06] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:06] ERROR something went wrong getting comment
+ERROR [2019-04-02 19:40:06] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:06] ERROR something went wrong getting comment
+ERROR [2019-04-02 19:40:06] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:06] ERROR something went wrong getting comment
+ERROR [2019-04-02 19:40:06] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:06] ERROR something went wrong getting comment
+ERROR [2019-04-02 19:40:06] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:06] ERROR something went wrong getting comment
+ERROR [2019-04-02 19:40:06] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:06] ERROR something went wrong getting comment
+ERROR [2019-04-02 19:40:06] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:06] ERROR something went wrong getting comment
+ERROR [2019-04-02 19:40:06] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:06] ERROR something went wrong getting comment
+ERROR [2019-04-02 19:40:06] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:06] ERROR something went wrong getting comment
+ERROR [2019-04-02 19:40:06] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:06] ERROR something went wrong getting comment
+INFO [2019-04-02 19:40:06] 0 comments.
+INFO [2019-04-02 19:40:06] Scraping Post Link: https://www.instagram.com/p/BvwCu4Zgkqh/
+INFO [2019-04-02 19:40:07] location_id: 0
+INFO [2019-04-02 19:40:07] location_url: 
+INFO [2019-04-02 19:40:07] location_name: 
+INFO [2019-04-02 19:40:07] lat: 
+INFO [2019-04-02 19:40:07] lng: 
+INFO [2019-04-02 19:40:07] Post date: 2019-04-02T10:59:12.000Z
+INFO [2019-04-02 19:40:07] number of images: 1
+INFO [2019-04-02 19:40:07] post image: https://scontent-bom1-2.cdninstagram.com/vp/ccd82bff28c787c5601ba14a7119d355/5D4EFD0F/t51.2885-15/e35/56488596_130287141386199_3852050333611751466_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:40:07] alt text: No photo description available.
+INFO [2019-04-02 19:40:07] post likes: 998
+INFO [2019-04-02 19:40:07] found comments: 24
+ERROR [2019-04-02 19:40:07] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:07] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:07] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:07] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:08] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:08] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:08] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:08] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:08] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:08] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:40:08] ERROR something went wrong getting user_commented
+INFO [2019-04-02 19:40:08] 13 comments.
+INFO [2019-04-02 19:40:08] User rakhisawant2511 has 38 comments.
+INFO [2019-04-02 19:42:57] Extracting information from arvindkejriwal
+INFO [2019-04-02 19:42:59] alias name: Arvind Kejriwal
+INFO [2019-04-02 19:42:59] bio: Political revolution in India has begun.
+Bharat jaldi badlega. @aamaadmiparty
+INFO [2019-04-02 19:42:59] url: aamaadmiparty.org
+INFO [2019-04-02 19:42:59] Posts: 81
+INFO [2019-04-02 19:42:59] Follower: 57690
+INFO [2019-04-02 19:42:59] Following: {'count': 1}
+INFO [2019-04-02 19:42:59] isPrivate: False
+INFO [2019-04-02 19:43:01] Scraping Post Link: https://www.instagram.com/p/BqmHabTn6qe/
+INFO [2019-04-02 19:43:04] location_id: 443185442
+INFO [2019-04-02 19:43:04] location_url: https://www.instagram.com/explore/locations/443185442/haryana/
+INFO [2019-04-02 19:43:04] location_name: Haryana
+INFO [2019-04-02 19:43:04] lat: 29.2085
+INFO [2019-04-02 19:43:04] lng: 76.3344
+INFO [2019-04-02 19:43:04] Post date: 2018-11-25T07:50:43.000Z
+INFO [2019-04-02 19:43:04] number of images: 2
+INFO [2019-04-02 19:43:04] post image: https://scontent-bom1-2.cdninstagram.com/vp/aaa0581408c18d2648f7b2ba6ad122cd/5D48372A/t51.2885-15/e35/45437743_317203599118084_5317343032152959708_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:43:04] alt text: Image may contain: 2 people, beard and outdoor
+INFO [2019-04-02 19:43:04] post image: https://scontent-bom1-2.cdninstagram.com/vp/c2c52e0937a2d52e65df898fcce47cfc/5D2E11D4/t51.2885-15/e35/46274990_258691885004154_8445667621024429412_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:43:04] alt text: Image may contain: 3 people, people standing and outdoor
+INFO [2019-04-02 19:43:04] post likes: 5020
+INFO [2019-04-02 19:43:04] found comments: 4
+ERROR [2019-04-02 19:43:04] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:43:04] ERROR something went wrong getting comment
+ERROR [2019-04-02 19:43:04] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:43:04] ERROR something went wrong getting comment
+ERROR [2019-04-02 19:43:04] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:43:04] ERROR something went wrong getting comment
+ERROR [2019-04-02 19:43:04] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:43:04] ERROR something went wrong getting comment
+INFO [2019-04-02 19:43:04] 0 comments.
+INFO [2019-04-02 19:43:04] Scraping Post Link: https://www.instagram.com/p/BqgaHq1nlex/
+INFO [2019-04-02 19:43:05] location_id: 0
+INFO [2019-04-02 19:43:05] location_url: 
+INFO [2019-04-02 19:43:05] location_name: 
+INFO [2019-04-02 19:43:05] lat: 
+INFO [2019-04-02 19:43:05] lng: 
+INFO [2019-04-02 19:43:05] Post date: 2018-11-23T02:38:44.000Z
+INFO [2019-04-02 19:43:05] number of images: 1
+INFO [2019-04-02 19:43:05] post image: https://scontent-bom1-2.cdninstagram.com/vp/d9b106ca46d2e478f440a5f79068941c/5D43F662/t51.2885-15/e35/46243996_339526413490866_5617441868584229393_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:43:05] alt text: Image may contain: text
+INFO [2019-04-02 19:43:05] post likes: 3228
+INFO [2019-04-02 19:43:05] found comments: 14
+ERROR [2019-04-02 19:43:05] ERROR something went wrong getting user_commented
+INFO [2019-04-02 19:43:06] 13 comments.
+INFO [2019-04-02 19:43:06] Scraping Post Link: https://www.instagram.com/p/BqoS6jWnnjN/
+INFO [2019-04-02 19:43:08] location_id: 0
+INFO [2019-04-02 19:43:08] location_url: 
+INFO [2019-04-02 19:43:08] location_name: 
+INFO [2019-04-02 19:43:08] lat: 
+INFO [2019-04-02 19:43:08] lng: 
+INFO [2019-04-02 19:43:08] Post date: 2018-11-26T04:09:42.000Z
+INFO [2019-04-02 19:43:08] number of images: 1
+INFO [2019-04-02 19:43:08] post image: https://scontent-bom1-2.cdninstagram.com/vp/9d70fcec0a30e10e2392dc643ceb7217/5D36BFB7/t51.2885-15/e35/46259261_291865501445727_73928849334786028_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:43:08] alt text: Image may contain: 3 people
+INFO [2019-04-02 19:43:08] post likes: 4685
+INFO [2019-04-02 19:43:08] found comments: 16
+ERROR [2019-04-02 19:43:08] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:43:08] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:43:08] ERROR something went wrong getting user_commented
+INFO [2019-04-02 19:43:09] 13 comments.
+INFO [2019-04-02 19:43:09] Scraping Post Link: https://www.instagram.com/p/BqPXZuXHIF1/
+INFO [2019-04-02 19:43:18] location_id: 250502818
+INFO [2019-04-02 19:43:18] location_url: https://www.instagram.com/explore/locations/250502818/north-west-delhi/
+INFO [2019-04-02 19:43:18] location_name: North West Delhi
+INFO [2019-04-02 19:43:18] lat: 28.6964
+INFO [2019-04-02 19:43:18] lng: 77.1271
+INFO [2019-04-02 19:43:18] Post date: 2018-11-16T11:47:54.000Z
+INFO [2019-04-02 19:43:18] number of images: 2
+INFO [2019-04-02 19:43:18] post image: https://scontent-bom1-2.cdninstagram.com/vp/a605f4877c58dde5f89828cae57c16c2/5D2A57CE/t51.2885-15/e35/42485527_2183847525196481_1034231856639749887_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:43:18] alt text: Image may contain: 7 people, people standing
+INFO [2019-04-02 19:43:18] post image: https://scontent-bom1-2.cdninstagram.com/vp/bdc53127ac635be4e5a1a3b16383fb1c/5D4E2530/t51.2885-15/e35/44678159_510021436161564_2625381634406932880_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:43:18] alt text: Image may contain: 8 people, people standing and outdoor
+INFO [2019-04-02 19:43:18] post likes: 5466
+INFO [2019-04-02 19:43:18] found comments: 6
+ERROR [2019-04-02 19:43:18] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:43:18] ERROR something went wrong getting comment
+ERROR [2019-04-02 19:43:18] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:43:18] ERROR something went wrong getting comment
+ERROR [2019-04-02 19:43:18] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:43:18] ERROR something went wrong getting comment
+ERROR [2019-04-02 19:43:18] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:43:18] ERROR something went wrong getting comment
+ERROR [2019-04-02 19:43:18] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:43:18] ERROR something went wrong getting comment
+ERROR [2019-04-02 19:43:18] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:43:18] ERROR something went wrong getting comment
+INFO [2019-04-02 19:43:18] 0 comments.
+INFO [2019-04-02 19:43:18] User arvindkejriwal has 26 comments.
+INFO [2019-04-02 19:44:57] Extracting information from arvindkejriwal
+INFO [2019-04-02 19:44:59] alias name: Arvind Kejriwal
+INFO [2019-04-02 19:44:59] bio: Political revolution in India has begun.
+Bharat jaldi badlega. @aamaadmiparty
+INFO [2019-04-02 19:44:59] url: aamaadmiparty.org
+INFO [2019-04-02 19:44:59] Posts: 81
+INFO [2019-04-02 19:44:59] Follower: 57688
+INFO [2019-04-02 19:44:59] Following: {'count': 1}
+INFO [2019-04-02 19:44:59] isPrivate: False
+INFO [2019-04-02 19:45:01] Scraping Post Link: https://www.instagram.com/p/BqmHabTn6qe/
+INFO [2019-04-02 19:45:03] location_id: 443185442
+INFO [2019-04-02 19:45:03] location_url: https://www.instagram.com/explore/locations/443185442/haryana/
+INFO [2019-04-02 19:45:03] location_name: Haryana
+INFO [2019-04-02 19:45:03] lat: 29.2085
+INFO [2019-04-02 19:45:03] lng: 76.3344
+INFO [2019-04-02 19:45:03] Post date: 2018-11-25T07:50:43.000Z
+INFO [2019-04-02 19:45:03] number of images: 2
+INFO [2019-04-02 19:45:03] post image: https://scontent-bom1-2.cdninstagram.com/vp/aaa0581408c18d2648f7b2ba6ad122cd/5D48372A/t51.2885-15/e35/45437743_317203599118084_5317343032152959708_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:45:03] alt text: Image may contain: 2 people, beard and outdoor
+INFO [2019-04-02 19:45:03] post image: https://scontent-bom1-2.cdninstagram.com/vp/c2c52e0937a2d52e65df898fcce47cfc/5D2E11D4/t51.2885-15/e35/46274990_258691885004154_8445667621024429412_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:45:03] alt text: Image may contain: 3 people, people standing and outdoor
+INFO [2019-04-02 19:45:03] post likes: 5020
+INFO [2019-04-02 19:45:04] found comments: 4
+ERROR [2019-04-02 19:45:04] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:45:04] ERROR something went wrong getting comment
+ERROR [2019-04-02 19:45:04] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:45:04] ERROR something went wrong getting comment
+ERROR [2019-04-02 19:45:04] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:45:04] ERROR something went wrong getting comment
+ERROR [2019-04-02 19:45:04] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:45:04] ERROR something went wrong getting comment
+INFO [2019-04-02 19:45:04] 0 comments.
+INFO [2019-04-02 19:45:04] Scraping Post Link: https://www.instagram.com/p/BqgaHq1nlex/
+INFO [2019-04-02 19:45:05] location_id: 0
+INFO [2019-04-02 19:45:05] location_url: 
+INFO [2019-04-02 19:45:05] location_name: 
+INFO [2019-04-02 19:45:05] lat: 
+INFO [2019-04-02 19:45:05] lng: 
+INFO [2019-04-02 19:45:05] Post date: 2018-11-23T02:38:44.000Z
+INFO [2019-04-02 19:45:05] number of images: 1
+INFO [2019-04-02 19:45:05] post image: https://scontent-bom1-2.cdninstagram.com/vp/d9b106ca46d2e478f440a5f79068941c/5D43F662/t51.2885-15/e35/46243996_339526413490866_5617441868584229393_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:45:05] alt text: Image may contain: text
+INFO [2019-04-02 19:45:05] post likes: 3228
+INFO [2019-04-02 19:45:05] found comments: 14
+ERROR [2019-04-02 19:45:05] ERROR something went wrong getting user_commented
+INFO [2019-04-02 19:45:05] 13 comments.
+INFO [2019-04-02 19:45:05] Scraping Post Link: https://www.instagram.com/p/BqoS6jWnnjN/
+INFO [2019-04-02 19:45:07] location_id: 0
+INFO [2019-04-02 19:45:07] location_url: 
+INFO [2019-04-02 19:45:07] location_name: 
+INFO [2019-04-02 19:45:07] lat: 
+INFO [2019-04-02 19:45:07] lng: 
+INFO [2019-04-02 19:45:07] Post date: 2018-11-26T04:09:42.000Z
+INFO [2019-04-02 19:45:07] number of images: 1
+INFO [2019-04-02 19:45:07] post image: https://scontent-bom1-2.cdninstagram.com/vp/9d70fcec0a30e10e2392dc643ceb7217/5D36BFB7/t51.2885-15/e35/46259261_291865501445727_73928849334786028_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:45:07] alt text: Image may contain: 3 people
+INFO [2019-04-02 19:45:07] post likes: 4685
+INFO [2019-04-02 19:45:07] found comments: 16
+ERROR [2019-04-02 19:45:07] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:45:07] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:45:07] ERROR something went wrong getting user_commented
+INFO [2019-04-02 19:45:08] 13 comments.
+INFO [2019-04-02 19:45:08] Scraping Post Link: https://www.instagram.com/p/BqPXZuXHIF1/
+INFO [2019-04-02 19:45:11] location_id: 250502818
+INFO [2019-04-02 19:45:11] location_url: https://www.instagram.com/explore/locations/250502818/north-west-delhi/
+INFO [2019-04-02 19:45:11] location_name: North West Delhi
+INFO [2019-04-02 19:45:11] lat: 28.6964
+INFO [2019-04-02 19:45:11] lng: 77.1271
+INFO [2019-04-02 19:45:11] Post date: 2018-11-16T11:47:54.000Z
+INFO [2019-04-02 19:45:11] number of images: 2
+INFO [2019-04-02 19:45:11] post image: https://scontent-bom1-2.cdninstagram.com/vp/a605f4877c58dde5f89828cae57c16c2/5D2A57CE/t51.2885-15/e35/42485527_2183847525196481_1034231856639749887_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:45:11] alt text: Image may contain: 7 people, people standing
+INFO [2019-04-02 19:45:11] post image: https://scontent-bom1-2.cdninstagram.com/vp/bdc53127ac635be4e5a1a3b16383fb1c/5D4E2530/t51.2885-15/e35/44678159_510021436161564_2625381634406932880_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:45:11] alt text: Image may contain: 8 people, people standing and outdoor
+INFO [2019-04-02 19:45:11] post likes: 5466
+INFO [2019-04-02 19:45:11] found comments: 6
+ERROR [2019-04-02 19:45:11] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:45:11] ERROR something went wrong getting comment
+ERROR [2019-04-02 19:45:11] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:45:11] ERROR something went wrong getting comment
+ERROR [2019-04-02 19:45:11] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:45:11] ERROR something went wrong getting comment
+ERROR [2019-04-02 19:45:11] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:45:11] ERROR something went wrong getting comment
+ERROR [2019-04-02 19:45:11] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:45:11] ERROR something went wrong getting comment
+ERROR [2019-04-02 19:45:11] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:45:11] ERROR something went wrong getting comment
+INFO [2019-04-02 19:45:11] 0 comments.
+INFO [2019-04-02 19:45:11] User arvindkejriwal has 26 comments.
+INFO [2019-04-02 19:47:54] Extracting information from imajazkhan
+INFO [2019-04-02 19:47:56] alias name: Ajaz Khan
+INFO [2019-04-02 19:47:56] bio: Actor, dreamer, big foodie
+INFO [2019-04-02 19:47:56] url: www.youtube.com/ajazkhanofficial
+INFO [2019-04-02 19:47:56] Posts: 3638
+INFO [2019-04-02 19:47:56] Follower: 991930
+INFO [2019-04-02 19:47:56] Following: {'count': 103}
+INFO [2019-04-02 19:47:56] isPrivate: False
+INFO [2019-04-02 19:47:58] Scraping Post Link: https://www.instagram.com/p/BvqgiqpFxH8/
+INFO [2019-04-02 19:48:00] location_id: 0
+INFO [2019-04-02 19:48:00] location_url: 
+INFO [2019-04-02 19:48:00] location_name: 
+INFO [2019-04-02 19:48:00] lat: 
+INFO [2019-04-02 19:48:00] lng: 
+INFO [2019-04-02 19:48:00] Post date: 2019-03-31T07:24:13.000Z
+INFO [2019-04-02 19:48:00] number of images: 1
+INFO [2019-04-02 19:48:00] post image: https://scontent-bom1-2.cdninstagram.com/vp/2e10238965a61d1ef9d821a461103a95/5D45B49A/t51.2885-15/e35/53784191_111759066490572_4114745436732551555_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:48:00] alt text: Image may contain: 1 person, standing
+INFO [2019-04-02 19:48:00] post likes: 30556
+INFO [2019-04-02 19:48:00] found comments: 14
+ERROR [2019-04-02 19:48:00] ERROR something went wrong getting user_commented
+INFO [2019-04-02 19:48:00] 13 comments.
+INFO [2019-04-02 19:48:00] Scraping Post Link: https://www.instagram.com/p/BvwCgujlS-K/
+INFO [2019-04-02 19:48:02] location_id: 0
+INFO [2019-04-02 19:48:02] location_url: 
+INFO [2019-04-02 19:48:02] location_name: 
+INFO [2019-04-02 19:48:02] lat: 
+INFO [2019-04-02 19:48:02] lng: 
+INFO [2019-04-02 19:48:02] Post date: 2019-04-02T10:57:16.000Z
+INFO [2019-04-02 19:48:02] number of images: 1
+INFO [2019-04-02 19:48:02] post image: https://scontent-bom1-2.cdninstagram.com/vp/b73fa66d099ae94e6e46c3f85564e152/5D49CA32/t51.2885-15/e35/53510904_132579661207943_5674602813484479112_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:48:02] alt text: Image may contain: one or more people, people standing, beard and outdoor
+INFO [2019-04-02 19:48:02] post likes: 19095
+INFO [2019-04-02 19:48:02] found comments: 14
+ERROR [2019-04-02 19:48:02] ERROR something went wrong getting user_commented
+INFO [2019-04-02 19:48:02] 13 comments.
+INFO [2019-04-02 19:48:02] Scraping Post Link: https://www.instagram.com/p/Bvs8G1BFxC0/
+INFO [2019-04-02 19:48:04] location_id: 0
+INFO [2019-04-02 19:48:04] location_url: 
+INFO [2019-04-02 19:48:04] location_name: 
+INFO [2019-04-02 19:48:04] lat: 
+INFO [2019-04-02 19:48:04] lng: 
+INFO [2019-04-02 19:48:04] Post date: 2019-04-01T06:03:34.000Z
+INFO [2019-04-02 19:48:04] number of images: 1
+INFO [2019-04-02 19:48:04] post image: https://scontent-bom1-2.cdninstagram.com/vp/daa5d0ab9f6ed85e9598343bf3132859/5D33D7A7/t51.2885-15/e35/54512761_151741495855108_8180541057708969041_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:48:04] alt text: Image may contain: 1 person, sunglasses and closeup
+INFO [2019-04-02 19:48:04] post likes: 22508
+INFO [2019-04-02 19:48:04] found comments: 14
+ERROR [2019-04-02 19:48:04] ERROR something went wrong getting user_commented
+INFO [2019-04-02 19:48:04] 13 comments.
+INFO [2019-04-02 19:48:04] Scraping Post Link: https://www.instagram.com/p/BvtpgAPFwKx/
+INFO [2019-04-02 19:48:06] location_id: 0
+INFO [2019-04-02 19:48:06] location_url: 
+INFO [2019-04-02 19:48:06] location_name: 
+INFO [2019-04-02 19:48:06] lat: 
+INFO [2019-04-02 19:48:06] lng: 
+INFO [2019-04-02 19:48:06] Post date: 2019-04-01T12:40:14.000Z
+INFO [2019-04-02 19:48:06] number of images: 1
+INFO [2019-04-02 19:48:07] post image: https://scontent-bom1-2.cdninstagram.com/vp/7a3a6ebf4546ffc9163e8c6a01c8c262/5D3EFE18/t51.2885-15/e35/54511299_367482870644117_8477082303764222660_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:48:07] alt text: Image may contain: 2 people, sunglasses
+INFO [2019-04-02 19:48:07] post likes: 83575
+INFO [2019-04-02 19:48:07] found comments: 16
+ERROR [2019-04-02 19:48:07] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:48:07] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:48:07] ERROR something went wrong getting user_commented
+INFO [2019-04-02 19:48:07] 13 comments.
+INFO [2019-04-02 19:48:07] User imajazkhan has 52 comments.
+INFO [2019-04-02 19:54:01] Extracting information from realdonaldtrump
+INFO [2019-04-02 19:54:03] Bio Url is empty
+INFO [2019-04-02 19:54:03] alias name: President Donald J. Trump
+INFO [2019-04-02 19:54:03] bio: 45th President of the United States
+INFO [2019-04-02 19:54:03] url: 
+INFO [2019-04-02 19:54:03] Posts: 4544
+INFO [2019-04-02 19:54:03] Follower: 12576814
+INFO [2019-04-02 19:54:03] Following: {'count': 8}
+INFO [2019-04-02 19:54:03] isPrivate: False
+INFO [2019-04-02 19:54:05] Scraping Post Link: https://www.instagram.com/p/Bvu2SSMlepX/
+INFO [2019-04-02 19:54:06] location_id: 0
+INFO [2019-04-02 19:54:06] location_url: 
+INFO [2019-04-02 19:54:06] location_name: 
+INFO [2019-04-02 19:54:06] lat: 
+INFO [2019-04-02 19:54:06] lng: 
+INFO [2019-04-02 19:54:06] Post date: 2019-04-01T23:51:40.000Z
+INFO [2019-04-02 19:54:06] number of images: 0
+INFO [2019-04-02 19:54:06] video views: 218395
+INFO [2019-04-02 19:54:06] post likes: 60847
+INFO [2019-04-02 19:54:06] found comments: 34
+ERROR [2019-04-02 19:54:07] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:07] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:07] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:07] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:07] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:07] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:07] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:07] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:07] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:07] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:07] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:07] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:07] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:07] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:07] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:08] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:08] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:08] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:08] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:08] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:08] ERROR something went wrong getting user_commented
+INFO [2019-04-02 19:54:08] 13 comments.
+INFO [2019-04-02 19:54:08] Scraping Post Link: https://www.instagram.com/p/BvuwzJll0xC/
+INFO [2019-04-02 19:54:09] location_id: 0
+INFO [2019-04-02 19:54:09] location_url: 
+INFO [2019-04-02 19:54:09] location_name: 
+INFO [2019-04-02 19:54:09] lat: 
+INFO [2019-04-02 19:54:09] lng: 
+INFO [2019-04-02 19:54:10] Post date: 2019-04-01T23:04:03.000Z
+INFO [2019-04-02 19:54:10] number of images: 0
+INFO [2019-04-02 19:54:10] video views: 261747
+INFO [2019-04-02 19:54:10] post likes: 73946
+INFO [2019-04-02 19:54:10] found comments: 36
+ERROR [2019-04-02 19:54:10] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:10] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:10] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:10] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:10] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:10] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:10] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:10] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:10] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:10] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:10] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:10] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:11] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:11] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:11] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:11] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:11] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:11] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:11] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:11] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:11] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:11] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:11] ERROR something went wrong getting user_commented
+INFO [2019-04-02 19:54:11] 13 comments.
+INFO [2019-04-02 19:54:11] Scraping Post Link: https://www.instagram.com/p/Bvu6jN1lJL2/
+INFO [2019-04-02 19:54:13] location_id: 0
+INFO [2019-04-02 19:54:13] location_url: 
+INFO [2019-04-02 19:54:13] location_name: 
+INFO [2019-04-02 19:54:13] lat: 
+INFO [2019-04-02 19:54:13] lng: 
+INFO [2019-04-02 19:54:13] Post date: 2019-04-02T00:28:27.000Z
+INFO [2019-04-02 19:54:13] number of images: 2
+INFO [2019-04-02 19:54:13] post image: https://scontent-bom1-2.cdninstagram.com/vp/a59a1a812884ed5e520a8fd408ed0185/5D3624B6/t51.2885-15/e35/54447133_415565082605938_355672766231031854_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:54:13] alt text: Image may contain: 2 people, people sitting and indoor
+INFO [2019-04-02 19:54:13] post image: https://scontent-bom1-2.cdninstagram.com/vp/3fb5553c26e158f93af3e55215af2df6/5D428F5B/t51.2885-15/e35/53669243_2161993273836471_9021980103937985308_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:54:13] alt text: Image may contain: 3 people, people standing and suit
+INFO [2019-04-02 19:54:13] post likes: 111424
+INFO [2019-04-02 19:54:13] found comments: 6
+ERROR [2019-04-02 19:54:13] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:13] ERROR something went wrong getting comment
+ERROR [2019-04-02 19:54:13] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:13] ERROR something went wrong getting comment
+ERROR [2019-04-02 19:54:13] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:13] ERROR something went wrong getting comment
+ERROR [2019-04-02 19:54:13] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:13] ERROR something went wrong getting comment
+ERROR [2019-04-02 19:54:13] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:13] ERROR something went wrong getting comment
+ERROR [2019-04-02 19:54:13] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:13] ERROR something went wrong getting comment
+INFO [2019-04-02 19:54:13] 0 comments.
+INFO [2019-04-02 19:54:13] Scraping Post Link: https://www.instagram.com/p/Bvt0DqpFk1y/
+INFO [2019-04-02 19:54:14] location_id: 0
+INFO [2019-04-02 19:54:14] location_url: 
+INFO [2019-04-02 19:54:14] location_name: 
+INFO [2019-04-02 19:54:14] lat: 
+INFO [2019-04-02 19:54:14] lng: 
+INFO [2019-04-02 19:54:14] Post date: 2019-04-01T14:12:29.000Z
+INFO [2019-04-02 19:54:14] number of images: 1
+INFO [2019-04-02 19:54:14] post image: https://scontent-bom1-2.cdninstagram.com/vp/9fe86e7091c9d3c0e17de5d26bea9015/5D415562/t51.2885-15/e35/54511315_689851758098564_8308648989120257609_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:54:14] alt text: Image may contain: 3 people, text
+INFO [2019-04-02 19:54:14] post likes: 149684
+INFO [2019-04-02 19:54:15] found comments: 38
+ERROR [2019-04-02 19:54:15] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:15] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:15] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:15] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:15] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:15] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:15] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:15] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:15] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:15] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:15] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:15] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:15] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:15] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:15] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:16] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:16] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:16] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:16] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:16] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:16] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:16] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:16] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:16] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:54:16] ERROR something went wrong getting user_commented
+INFO [2019-04-02 19:54:16] 13 comments.
+INFO [2019-04-02 19:54:16] User realdonaldtrump has 39 comments.
+INFO [2019-04-02 19:57:39] Extracting information from realdonaldtrump
+INFO [2019-04-02 19:57:43] Bio Url is empty
+INFO [2019-04-02 19:57:43] alias name: President Donald J. Trump
+INFO [2019-04-02 19:57:43] bio: 45th President of the United States
+INFO [2019-04-02 19:57:43] url: 
+INFO [2019-04-02 19:57:43] Posts: 4544
+INFO [2019-04-02 19:57:43] Follower: 12576842
+INFO [2019-04-02 19:57:43] Following: {'count': 8}
+INFO [2019-04-02 19:57:43] isPrivate: False
+INFO [2019-04-02 19:57:46] Scraping Post Link: https://www.instagram.com/p/Bvu2SSMlepX/
+INFO [2019-04-02 19:57:47] location_id: 0
+INFO [2019-04-02 19:57:47] location_url: 
+INFO [2019-04-02 19:57:47] location_name: 
+INFO [2019-04-02 19:57:47] lat: 
+INFO [2019-04-02 19:57:47] lng: 
+INFO [2019-04-02 19:57:47] Post date: 2019-04-01T23:51:40.000Z
+INFO [2019-04-02 19:57:47] number of images: 0
+INFO [2019-04-02 19:57:47] video views: 218812
+INFO [2019-04-02 19:57:47] post likes: 60960
+INFO [2019-04-02 19:57:54] found comments: 122
+ERROR [2019-04-02 19:57:54] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:57:54] ERROR something went wrong getting comment
+INFO [2019-04-02 19:57:58] 121 comments.
+INFO [2019-04-02 19:57:58] Scraping Post Link: https://www.instagram.com/p/Bvt0DqpFk1y/
+INFO [2019-04-02 19:57:59] location_id: 0
+INFO [2019-04-02 19:57:59] location_url: 
+INFO [2019-04-02 19:57:59] location_name: 
+INFO [2019-04-02 19:57:59] lat: 
+INFO [2019-04-02 19:57:59] lng: 
+INFO [2019-04-02 19:58:00] Post date: 2019-04-01T14:12:29.000Z
+INFO [2019-04-02 19:58:00] number of images: 1
+INFO [2019-04-02 19:58:00] post image: https://scontent-bom1-2.cdninstagram.com/vp/9fe86e7091c9d3c0e17de5d26bea9015/5D415562/t51.2885-15/e35/54511315_689851758098564_8308648989120257609_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:58:00] alt text: Image may contain: 3 people, text
+INFO [2019-04-02 19:58:00] post likes: 149780
+INFO [2019-04-02 19:58:06] found comments: 122
+ERROR [2019-04-02 19:58:06] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:58:06] ERROR something went wrong getting comment
+INFO [2019-04-02 19:58:11] 121 comments.
+INFO [2019-04-02 19:58:11] Scraping Post Link: https://www.instagram.com/p/Bvu6jN1lJL2/
+INFO [2019-04-02 19:58:12] location_id: 0
+INFO [2019-04-02 19:58:12] location_url: 
+INFO [2019-04-02 19:58:12] location_name: 
+INFO [2019-04-02 19:58:12] lat: 
+INFO [2019-04-02 19:58:12] lng: 
+INFO [2019-04-02 19:58:12] Post date: 2019-04-02T00:28:27.000Z
+INFO [2019-04-02 19:58:12] number of images: 2
+INFO [2019-04-02 19:58:12] post image: https://scontent-bom1-2.cdninstagram.com/vp/a59a1a812884ed5e520a8fd408ed0185/5D3624B6/t51.2885-15/e35/54447133_415565082605938_355672766231031854_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:58:12] alt text: Image may contain: 2 people, people sitting and indoor
+INFO [2019-04-02 19:58:12] post image: https://scontent-bom1-2.cdninstagram.com/vp/3fb5553c26e158f93af3e55215af2df6/5D428F5B/t51.2885-15/e35/53669243_2161993273836471_9021980103937985308_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 19:58:12] alt text: Image may contain: 3 people, people standing and suit
+INFO [2019-04-02 19:58:12] post likes: 111734
+INFO [2019-04-02 19:58:12] found comments: 6
+ERROR [2019-04-02 19:58:12] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:58:12] ERROR something went wrong getting comment
+ERROR [2019-04-02 19:58:12] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:58:12] ERROR something went wrong getting comment
+ERROR [2019-04-02 19:58:12] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:58:12] ERROR something went wrong getting comment
+ERROR [2019-04-02 19:58:12] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:58:12] ERROR something went wrong getting comment
+ERROR [2019-04-02 19:58:12] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:58:12] ERROR something went wrong getting comment
+ERROR [2019-04-02 19:58:12] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:58:12] ERROR something went wrong getting comment
+INFO [2019-04-02 19:58:12] 0 comments.
+INFO [2019-04-02 19:58:12] Scraping Post Link: https://www.instagram.com/p/BvuwzJll0xC/
+INFO [2019-04-02 19:58:13] location_id: 0
+INFO [2019-04-02 19:58:13] location_url: 
+INFO [2019-04-02 19:58:13] location_name: 
+INFO [2019-04-02 19:58:13] lat: 
+INFO [2019-04-02 19:58:13] lng: 
+INFO [2019-04-02 19:58:13] Post date: 2019-04-01T23:04:03.000Z
+INFO [2019-04-02 19:58:13] number of images: 0
+INFO [2019-04-02 19:58:13] video views: 262234
+INFO [2019-04-02 19:58:14] post likes: 74074
+INFO [2019-04-02 19:58:20] found comments: 122
+ERROR [2019-04-02 19:58:20] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 19:58:20] ERROR something went wrong getting comment
+INFO [2019-04-02 19:58:25] 121 comments.
+INFO [2019-04-02 19:58:25] User realdonaldtrump has 363 comments.
+INFO [2019-04-02 20:00:03] Extracting information from realdonaldtrump
+INFO [2019-04-02 20:00:08] Bio Url is empty
+INFO [2019-04-02 20:00:08] alias name: President Donald J. Trump
+INFO [2019-04-02 20:00:08] bio: 45th President of the United States
+INFO [2019-04-02 20:00:08] url: 
+INFO [2019-04-02 20:00:08] Posts: 4544
+INFO [2019-04-02 20:00:08] Follower: 12576858
+INFO [2019-04-02 20:00:08] Following: {'count': 8}
+INFO [2019-04-02 20:00:08] isPrivate: False
+INFO [2019-04-02 20:00:11] Scraping Post Link: https://www.instagram.com/p/Bvu2SSMlepX/
+INFO [2019-04-02 20:00:12] location_id: 0
+INFO [2019-04-02 20:00:12] location_url: 
+INFO [2019-04-02 20:00:12] location_name: 
+INFO [2019-04-02 20:00:12] lat: 
+INFO [2019-04-02 20:00:12] lng: 
+INFO [2019-04-02 20:00:12] Post date: 2019-04-01T23:51:40.000Z
+INFO [2019-04-02 20:00:12] number of images: 0
+INFO [2019-04-02 20:00:12] video views: 219144
+INFO [2019-04-02 20:00:12] post likes: 61040
+INFO [2019-04-02 20:00:18] found comments: 122
+ERROR [2019-04-02 20:00:19] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 20:00:19] ERROR something went wrong getting comment
+INFO [2019-04-02 20:00:23] 121 comments.
+INFO [2019-04-02 20:00:23] Scraping Post Link: https://www.instagram.com/p/Bvt0DqpFk1y/
+INFO [2019-04-02 20:00:24] location_id: 0
+INFO [2019-04-02 20:00:24] location_url: 
+INFO [2019-04-02 20:00:24] location_name: 
+INFO [2019-04-02 20:00:24] lat: 
+INFO [2019-04-02 20:00:24] lng: 
+INFO [2019-04-02 20:00:24] Post date: 2019-04-01T14:12:29.000Z
+INFO [2019-04-02 20:00:24] number of images: 1
+INFO [2019-04-02 20:00:24] post image: https://scontent-bom1-2.cdninstagram.com/vp/9fe86e7091c9d3c0e17de5d26bea9015/5D415562/t51.2885-15/e35/54511315_689851758098564_8308648989120257609_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 20:00:24] alt text: Image may contain: 3 people, text
+INFO [2019-04-02 20:00:25] post likes: 149841
+INFO [2019-04-02 20:00:31] found comments: 122
+ERROR [2019-04-02 20:00:31] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 20:00:31] ERROR something went wrong getting comment
+INFO [2019-04-02 20:00:36] 121 comments.
+INFO [2019-04-02 20:00:36] Scraping Post Link: https://www.instagram.com/p/Bvu6jN1lJL2/
+INFO [2019-04-02 20:00:37] location_id: 0
+INFO [2019-04-02 20:00:37] location_url: 
+INFO [2019-04-02 20:00:37] location_name: 
+INFO [2019-04-02 20:00:37] lat: 
+INFO [2019-04-02 20:00:37] lng: 
+INFO [2019-04-02 20:00:37] Post date: 2019-04-02T00:28:27.000Z
+INFO [2019-04-02 20:00:37] number of images: 2
+INFO [2019-04-02 20:00:37] post image: https://scontent-bom1-2.cdninstagram.com/vp/a59a1a812884ed5e520a8fd408ed0185/5D3624B6/t51.2885-15/e35/54447133_415565082605938_355672766231031854_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 20:00:37] alt text: Image may contain: 2 people, people sitting and indoor
+INFO [2019-04-02 20:00:37] post image: https://scontent-bom1-2.cdninstagram.com/vp/3fb5553c26e158f93af3e55215af2df6/5D428F5B/t51.2885-15/e35/53669243_2161993273836471_9021980103937985308_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 20:00:37] alt text: Image may contain: 3 people, people standing and suit
+INFO [2019-04-02 20:00:37] post likes: 111927
+INFO [2019-04-02 20:00:37] found comments: 6
+ERROR [2019-04-02 20:00:37] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 20:00:37] ERROR something went wrong getting comment
+ERROR [2019-04-02 20:00:37] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 20:00:37] ERROR something went wrong getting comment
+ERROR [2019-04-02 20:00:37] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 20:00:37] ERROR something went wrong getting comment
+ERROR [2019-04-02 20:00:37] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 20:00:37] ERROR something went wrong getting comment
+ERROR [2019-04-02 20:00:37] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 20:00:37] ERROR something went wrong getting comment
+ERROR [2019-04-02 20:00:37] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 20:00:37] ERROR something went wrong getting comment
+INFO [2019-04-02 20:00:37] 0 comments.
+INFO [2019-04-02 20:00:37] Scraping Post Link: https://www.instagram.com/p/BvuwzJll0xC/
+INFO [2019-04-02 20:00:38] location_id: 0
+INFO [2019-04-02 20:00:38] location_url: 
+INFO [2019-04-02 20:00:38] location_name: 
+INFO [2019-04-02 20:00:38] lat: 
+INFO [2019-04-02 20:00:38] lng: 
+INFO [2019-04-02 20:00:38] Post date: 2019-04-01T23:04:03.000Z
+INFO [2019-04-02 20:00:38] number of images: 0
+INFO [2019-04-02 20:00:38] video views: 262542
+INFO [2019-04-02 20:00:38] post likes: 74142
+INFO [2019-04-02 20:00:45] found comments: 122
+ERROR [2019-04-02 20:00:45] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 20:00:45] ERROR something went wrong getting comment
+INFO [2019-04-02 20:00:50] 121 comments.
+INFO [2019-04-02 20:00:50] User realdonaldtrump has 363 comments.
+INFO [2019-04-02 20:01:46] Extracting information from kimkardashian
+INFO [2019-04-02 20:01:49] Bio is empty
+INFO [2019-04-02 20:01:49] alias name: Kim Kardashian West
+INFO [2019-04-02 20:01:49] bio: 
+INFO [2019-04-02 20:01:49] url: KKWBEAUTY.COM
+INFO [2019-04-02 20:01:49] Posts: 4777
+INFO [2019-04-02 20:01:49] Follower: 133278525
+INFO [2019-04-02 20:01:49] Following: {'count': 127}
+INFO [2019-04-02 20:01:49] isPrivate: False
+INFO [2019-04-02 20:01:51] Scraping Post Link: https://www.instagram.com/p/BvsFTs5HmZG/
+INFO [2019-04-02 20:01:53] location_id: 0
+INFO [2019-04-02 20:01:53] location_url: 
+INFO [2019-04-02 20:01:53] location_name: 
+INFO [2019-04-02 20:01:53] lat: 
+INFO [2019-04-02 20:01:53] lng: 
+INFO [2019-04-02 20:01:53] Post date: 2019-03-31T22:04:44.000Z
+INFO [2019-04-02 20:01:53] number of images: 1
+INFO [2019-04-02 20:01:53] post image: https://scontent-bom1-2.cdninstagram.com/vp/5945b2cbd9f3066749e7bca636d80742/5D38770F/t51.2885-15/e35/s1080x1080/53515223_1233221320169191_940553691391507118_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 20:01:53] alt text: Image may contain: 5 people, wedding
+INFO [2019-04-02 20:01:53] post likes: 2539414
+INFO [2019-04-02 20:01:59] found comments: 122
+ERROR [2019-04-02 20:01:59] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 20:01:59] ERROR something went wrong getting comment
+INFO [2019-04-02 20:02:05] 121 comments.
+INFO [2019-04-02 20:02:05] Scraping Post Link: https://www.instagram.com/p/Bvu6npjnPa_/
+INFO [2019-04-02 20:02:06] location_id: 0
+INFO [2019-04-02 20:02:06] location_url: 
+INFO [2019-04-02 20:02:06] location_name: 
+INFO [2019-04-02 20:02:06] lat: 
+INFO [2019-04-02 20:02:06] lng: 
+INFO [2019-04-02 20:02:06] Post date: 2019-04-02T00:29:04.000Z
+INFO [2019-04-02 20:02:06] number of images: 1
+INFO [2019-04-02 20:02:06] post image: https://scontent-bom1-2.cdninstagram.com/vp/1a372705c98d8f589aa8a084a859058f/5D4D420D/t51.2885-15/e35/p1080x1080/53759591_307376743251436_7136656257037377245_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 20:02:06] alt text: Image may contain: 1 person, standing
+INFO [2019-04-02 20:02:06] post likes: 1370563
+INFO [2019-04-02 20:02:12] found comments: 122
+ERROR [2019-04-02 20:02:12] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 20:02:12] ERROR something went wrong getting comment
+INFO [2019-04-02 20:02:18] 121 comments.
+INFO [2019-04-02 20:02:18] mentions: 1
+INFO [2019-04-02 20:02:18] Scraping Post Link: https://www.instagram.com/p/Bvoqk2tn3jC/
+INFO [2019-04-02 20:02:19] location_id: 0
+INFO [2019-04-02 20:02:19] location_url: 
+INFO [2019-04-02 20:02:19] location_name: 
+INFO [2019-04-02 20:02:19] lat: 
+INFO [2019-04-02 20:02:19] lng: 
+INFO [2019-04-02 20:02:19] Post date: 2019-03-30T14:13:25.000Z
+INFO [2019-04-02 20:02:19] number of images: 1
+INFO [2019-04-02 20:02:19] post image: https://scontent-bom1-2.cdninstagram.com/vp/190a84ba6cb67b187a150789980e75c3/5D44E546/t51.2885-15/e35/s1080x1080/53634192_688719028230021_1094230132826725261_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 20:02:19] alt text: Image may contain: 4 people, closeup
+INFO [2019-04-02 20:02:19] post likes: 3928826
+INFO [2019-04-02 20:02:27] found comments: 122
+ERROR [2019-04-02 20:02:27] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 20:02:27] ERROR something went wrong getting comment
+INFO [2019-04-02 20:02:33] 121 comments.
+INFO [2019-04-02 20:02:33] Scraping Post Link: https://www.instagram.com/p/BvmVasmhkO4/
+INFO [2019-04-02 20:02:34] location_id: 0
+INFO [2019-04-02 20:02:34] location_url: 
+INFO [2019-04-02 20:02:34] location_name: 
+INFO [2019-04-02 20:02:34] lat: 
+INFO [2019-04-02 20:02:34] lng: 
+INFO [2019-04-02 20:02:34] Post date: 2019-03-29T16:30:03.000Z
+INFO [2019-04-02 20:02:34] number of images: 1
+INFO [2019-04-02 20:02:34] post image: https://scontent-bom1-2.cdninstagram.com/vp/9ac661227e1c61f00152c4202f985202/5D35B59E/t51.2885-15/e35/p1080x1080/54511247_213253736300027_3833510504960233686_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 20:02:34] alt text: Image may contain: 1 person
+INFO [2019-04-02 20:02:34] post likes: 1356989
+INFO [2019-04-02 20:02:41] found comments: 122
+ERROR [2019-04-02 20:02:41] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 20:02:41] ERROR something went wrong getting comment
+INFO [2019-04-02 20:02:48] 121 comments.
+INFO [2019-04-02 20:02:48] mentions: 1
+INFO [2019-04-02 20:02:48] User kimkardashian has 484 comments.
+INFO [2019-04-02 20:04:30] Extracting information from anoopkarnik
+INFO [2019-04-02 20:04:33] Bio Url is empty
+INFO [2019-04-02 20:04:33] alias name: Anoop Karnik
+INFO [2019-04-02 20:04:33] bio: Hakuna Matata, Carpedium and Si vis pacem para bellum are the top three quotes i like to live by!!!
+INFO [2019-04-02 20:04:33] url: 
+INFO [2019-04-02 20:04:33] Posts: 64
+INFO [2019-04-02 20:04:33] Follower: 502
+INFO [2019-04-02 20:04:33] Following: {'count': 247}
+INFO [2019-04-02 20:04:33] isPrivate: False
+INFO [2019-04-02 20:04:35] Scraping Post Link: https://www.instagram.com/p/BsalHPTlC5T/
+INFO [2019-04-02 20:04:38] location_id: 771825499851610
+INFO [2019-04-02 20:04:38] location_url: https://www.instagram.com/explore/locations/771825499851610/amb-cinemas/
+INFO [2019-04-02 20:04:38] location_name: AMB-Cinemas
+INFO [2019-04-02 20:04:38] lat: 17.45794
+INFO [2019-04-02 20:04:38] lng: 78.371
+INFO [2019-04-02 20:04:38] Post date: 2019-01-09T13:22:08.000Z
+INFO [2019-04-02 20:04:38] number of images: 1
+INFO [2019-04-02 20:04:38] post image: https://scontent-bom1-2.cdninstagram.com/vp/c31e238a4bbdde1d7850df3724e17afc/5D438901/t51.2885-15/e35/49858392_213699059582588_3305182221750193816_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 20:04:38] alt text: Image may contain: 4 people, indoor
+INFO [2019-04-02 20:04:38] post likes: 39
+INFO [2019-04-02 20:04:38] 1 comments.
+INFO [2019-04-02 20:04:38] caption: #firstandbest movie of 2019 #kgf and in biggest mall in india!!!
+INFO [2019-04-02 20:04:38] mentions: 3
+INFO [2019-04-02 20:04:38] Scraping Post Link: https://www.instagram.com/p/Bs7Zx2Ulxc5/
+INFO [2019-04-02 20:04:41] location_id: 290855949
+INFO [2019-04-02 20:04:41] location_url: https://www.instagram.com/explore/locations/290855949/international-institute-of-information-technology-hyderabad/
+INFO [2019-04-02 20:04:41] location_name: International Institute of Information Technology, Hyderabad
+INFO [2019-04-02 20:04:41] lat: 17.4459543401
+INFO [2019-04-02 20:04:41] lng: 78.3493992577
+INFO [2019-04-02 20:04:41] Post date: 2019-01-22T07:24:15.000Z
+INFO [2019-04-02 20:04:41] number of images: 0
+INFO [2019-04-02 20:04:41] video views: 318
+INFO [2019-04-02 20:04:41] post likes: 24
+INFO [2019-04-02 20:04:41] found comments: 11
+INFO [2019-04-02 20:04:41] 11 comments.
+INFO [2019-04-02 20:04:41] caption: #collegefest #felicity #dancepractice
+INFO [2019-04-02 20:04:41] Scraping Post Link: https://www.instagram.com/p/Bs7YSJPFg2A/
+INFO [2019-04-02 20:04:44] location_id: 290855949
+INFO [2019-04-02 20:04:44] location_url: https://www.instagram.com/explore/locations/290855949/international-institute-of-information-technology-hyderabad/
+INFO [2019-04-02 20:04:44] location_name: International Institute of Information Technology, Hyderabad
+INFO [2019-04-02 20:04:44] lat: 17.4459543401
+INFO [2019-04-02 20:04:44] lng: 78.3493992577
+INFO [2019-04-02 20:04:44] Post date: 2019-01-22T07:04:58.000Z
+INFO [2019-04-02 20:04:44] number of images: 2
+INFO [2019-04-02 20:04:44] post image: https://scontent-bom1-2.cdninstagram.com/vp/8b7b82472bc8465fa0078c25fd6cf9e3/5D291F5D/t51.2885-15/e35/49956618_372579273553959_2929715801606758126_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 20:04:44] alt text: Image may contain: one or more people
+INFO [2019-04-02 20:04:44] post image: https://scontent-bom1-2.cdninstagram.com/vp/a9646cc241a0c252ae54f917ecb08602/5D459DC3/t51.2885-15/e35/50618318_122570695464953_684637952472562955_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 20:04:44] alt text: Image may contain: night, tree, sky and outdoor
+INFO [2019-04-02 20:04:44] post likes: 26
+INFO [2019-04-02 20:04:44] found comments: 3
+ERROR [2019-04-02 20:04:44] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 20:04:44] ERROR something went wrong getting comment
+ERROR [2019-04-02 20:04:44] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 20:04:44] ERROR something went wrong getting comment
+ERROR [2019-04-02 20:04:44] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 20:04:44] ERROR something went wrong getting comment
+INFO [2019-04-02 20:04:44] 0 comments.
+INFO [2019-04-02 20:04:44] Scraping Post Link: https://www.instagram.com/p/BvRR7bRBnGs/
+INFO [2019-04-02 20:04:46] location_id: 12877535
+INFO [2019-04-02 20:04:46] location_url: https://www.instagram.com/explore/locations/12877535/madhapur/
+INFO [2019-04-02 20:04:46] location_name: Madhapur
+INFO [2019-04-02 20:04:46] lat: 17.4405555556
+INFO [2019-04-02 20:04:46] lng: 78.3911111111
+INFO [2019-04-02 20:04:46] Post date: 2019-03-21T12:15:31.000Z
+INFO [2019-04-02 20:04:46] number of images: 1
+INFO [2019-04-02 20:04:46] post image: https://scontent-bom1-2.cdninstagram.com/vp/9da5802dffa8c002f47169346a213d8d/5D2BB5FD/t51.2885-15/e35/52681236_345977812698027_8877598402455030202_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 20:04:46] alt text: Image may contain: 4 people, beard
+INFO [2019-04-02 20:04:46] post likes: 37
+INFO [2019-04-02 20:04:46] 1 comments.
+INFO [2019-04-02 20:04:46] caption: Bura na maano holi hain!!!
+INFO [2019-04-02 20:04:46] mentions: 3
+INFO [2019-04-02 20:04:46] User anoopkarnik has 13 comments.
+INFO [2019-04-02 20:07:03] Extracting information from loganpaul
+INFO [2019-04-02 20:07:06] alias name: Logan Paul
+INFO [2019-04-02 20:07:06] bio: y’all slept on me n now im mad
+INFO [2019-04-02 20:07:06] url: maverickbyloganpaul.com
+INFO [2019-04-02 20:07:06] Posts: 866
+INFO [2019-04-02 20:07:06] Follower: 15902764
+INFO [2019-04-02 20:07:06] Following: {'count': 278}
+INFO [2019-04-02 20:07:06] isPrivate: False
+INFO [2019-04-02 20:07:08] Scraping Post Link: https://www.instagram.com/p/BvSd44gJUng/
+INFO [2019-04-02 20:07:09] location_id: 0
+INFO [2019-04-02 20:07:09] location_url: 
+INFO [2019-04-02 20:07:09] location_name: 
+INFO [2019-04-02 20:07:09] lat: 
+INFO [2019-04-02 20:07:09] lng: 
+INFO [2019-04-02 20:07:09] Post date: 2019-03-21T23:19:16.000Z
+INFO [2019-04-02 20:07:09] number of images: 1
+INFO [2019-04-02 20:07:09] post image: https://scontent-bom1-2.cdninstagram.com/vp/bded39054466c2cb75d43929ccb2d0b4/5D2BA899/t51.2885-15/e35/53556224_392855651548239_6863181507012492715_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 20:07:09] alt text: Image may contain: 1 person, text
+INFO [2019-04-02 20:07:09] post likes: 354172
+INFO [2019-04-02 20:07:17] found comments: 122
+ERROR [2019-04-02 20:07:17] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 20:07:17] ERROR something went wrong getting comment
+INFO [2019-04-02 20:07:22] 121 comments.
+INFO [2019-04-02 20:07:22] mentions: 2
+INFO [2019-04-02 20:07:22] Scraping Post Link: https://www.instagram.com/p/Bve9_RNJ466/
+INFO [2019-04-02 20:07:25] location_id: 213490867
+INFO [2019-04-02 20:07:25] location_url: https://www.instagram.com/explore/locations/213490867/kauai/
+INFO [2019-04-02 20:07:25] location_name: Kauai
+INFO [2019-04-02 20:07:25] lat: 22.0833333333
+INFO [2019-04-02 20:07:25] lng: -159.5
+INFO [2019-04-02 20:07:25] Post date: 2019-03-26T19:50:39.000Z
+INFO [2019-04-02 20:07:25] number of images: 1
+INFO [2019-04-02 20:07:25] post image: https://scontent-bom1-2.cdninstagram.com/vp/84b19c184f5238c5757f1a86e01b954a/5D2D4FF3/t51.2885-15/e35/52699078_318459852187136_9003502204250072078_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 20:07:25] alt text: Image may contain: 2 people, people standing and outdoor
+INFO [2019-04-02 20:07:25] post likes: 1202570
+INFO [2019-04-02 20:07:31] found comments: 122
+ERROR [2019-04-02 20:07:31] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 20:07:31] ERROR something went wrong getting comment
+INFO [2019-04-02 20:07:36] 121 comments.
+INFO [2019-04-02 20:07:36] mentions: 2
+INFO [2019-04-02 20:07:36] Scraping Post Link: https://www.instagram.com/p/Bvr1lBwJJ_9/
+INFO [2019-04-02 20:07:37] location_id: 0
+INFO [2019-04-02 20:07:37] location_url: 
+INFO [2019-04-02 20:07:37] location_name: 
+INFO [2019-04-02 20:07:37] lat: 
+INFO [2019-04-02 20:07:37] lng: 
+INFO [2019-04-02 20:07:37] Post date: 2019-03-31T19:47:17.000Z
+INFO [2019-04-02 20:07:37] number of images: 1
+INFO [2019-04-02 20:07:37] post image: https://scontent-bom1-2.cdninstagram.com/vp/6732cb2a580d77a8cf18044bbad04cbc/5D341F59/t51.2885-15/e35/55813356_110795866767732_8763566327918921372_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 20:07:37] alt text: Image may contain: 1 person, sky, car, outdoor and nature
+INFO [2019-04-02 20:07:37] post likes: 835184
+INFO [2019-04-02 20:07:44] found comments: 122
+ERROR [2019-04-02 20:07:44] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 20:07:44] ERROR something went wrong getting comment
+INFO [2019-04-02 20:07:49] 121 comments.
+INFO [2019-04-02 20:07:49] mentions: 3
+INFO [2019-04-02 20:07:49] Scraping Post Link: https://www.instagram.com/p/Bvhcj8CiUSM/
+INFO [2019-04-02 20:07:50] location_id: 0
+INFO [2019-04-02 20:07:50] location_url: 
+INFO [2019-04-02 20:07:50] location_name: 
+INFO [2019-04-02 20:07:50] lat: 
+INFO [2019-04-02 20:07:50] lng: 
+INFO [2019-04-02 20:07:50] Post date: 2019-03-27T18:56:52.000Z
+INFO [2019-04-02 20:07:50] number of images: 0
+INFO [2019-04-02 20:07:50] video views: 2112555
+INFO [2019-04-02 20:07:50] post likes: 415594
+INFO [2019-04-02 20:07:56] found comments: 122
+ERROR [2019-04-02 20:07:56] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 20:07:56] ERROR something went wrong getting comment
+INFO [2019-04-02 20:08:01] 121 comments.
+INFO [2019-04-02 20:08:01] User loganpaul has 484 comments.
+INFO [2019-04-02 20:10:00] Extracting information from blacchyna
+INFO [2019-04-02 20:10:03] alias name: Blac Chyna
+INFO [2019-04-02 20:10:03] bio: www.lashedcosmetics.com
+Info@blacchyna.com
+INFO [2019-04-02 20:10:03] url: www.lashedcosmectics.com
+INFO [2019-04-02 20:10:03] Posts: 3751
+INFO [2019-04-02 20:10:03] Follower: 15250144
+INFO [2019-04-02 20:10:03] Following: {'count': 3255}
+INFO [2019-04-02 20:10:03] isPrivate: False
+INFO [2019-04-02 20:10:06] Scraping Post Link: https://www.instagram.com/p/BvvX7nHAEl4/
+INFO [2019-04-02 20:10:07] location_id: 0
+INFO [2019-04-02 20:10:07] location_url: 
+INFO [2019-04-02 20:10:07] location_name: 
+INFO [2019-04-02 20:10:07] lat: 
+INFO [2019-04-02 20:10:07] lng: 
+INFO [2019-04-02 20:10:07] Post date: 2019-04-02T04:45:11.000Z
+INFO [2019-04-02 20:10:07] number of images: 2
+INFO [2019-04-02 20:10:07] post image: https://scontent-bom1-2.cdninstagram.com/vp/94c5b03a657675b47a3ce6d58c5202c9/5D3AAA05/t51.2885-15/e35/53916456_372120156850183_3094046073616119192_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 20:10:07] alt text: Image may contain: 1 person
+INFO [2019-04-02 20:10:07] post image: https://scontent-bom1-2.cdninstagram.com/vp/4c9bd3613c8494f8e8c4493c421a3e5a/5D465935/t51.2885-15/e35/54511109_532119090649666_7912891193803653542_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 20:10:07] alt text: Image may contain: 1 person
+INFO [2019-04-02 20:10:07] post likes: 26605
+INFO [2019-04-02 20:10:07] found comments: 2
+ERROR [2019-04-02 20:10:07] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 20:10:07] ERROR something went wrong getting comment
+INFO [2019-04-02 20:10:07] 1 comments.
+INFO [2019-04-02 20:10:07] mentions: 1
+INFO [2019-04-02 20:10:07] Scraping Post Link: https://www.instagram.com/p/BvvfUzwgNc9/
+INFO [2019-04-02 20:10:08] location_id: 0
+INFO [2019-04-02 20:10:08] location_url: 
+INFO [2019-04-02 20:10:08] location_name: 
+INFO [2019-04-02 20:10:08] lat: 
+INFO [2019-04-02 20:10:08] lng: 
+INFO [2019-04-02 20:10:08] Post date: 2019-04-02T05:49:48.000Z
+INFO [2019-04-02 20:10:08] number of images: 1
+INFO [2019-04-02 20:10:08] post image: https://scontent-bom1-2.cdninstagram.com/vp/72c7399ab828998a9da18b142ffef745/5D2D4135/t51.2885-15/e35/54511861_1372337962924412_1983652495015284380_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 20:10:08] alt text: Image may contain: 1 person, standing, sunglasses and outdoor
+INFO [2019-04-02 20:10:08] post likes: 6070
+INFO [2019-04-02 20:10:10] found comments: 48
+INFO [2019-04-02 20:10:12] 48 comments.
+INFO [2019-04-02 20:10:12] Scraping Post Link: https://www.instagram.com/p/BvvfOwGAQcZ/
+INFO [2019-04-02 20:10:13] location_id: 0
+INFO [2019-04-02 20:10:13] location_url: 
+INFO [2019-04-02 20:10:13] location_name: 
+INFO [2019-04-02 20:10:13] lat: 
+INFO [2019-04-02 20:10:13] lng: 
+INFO [2019-04-02 20:10:13] Post date: 2019-04-02T05:48:58.000Z
+INFO [2019-04-02 20:10:13] number of images: 2
+INFO [2019-04-02 20:10:13] post image: https://scontent-bom1-2.cdninstagram.com/vp/09dd578367e81a94397a7576304f08ea/5D39DD9B/t51.2885-15/e35/54204088_121166485718082_1488397856846985099_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 20:10:13] alt text: No photo description available.
+INFO [2019-04-02 20:10:13] post image: https://scontent-bom1-2.cdninstagram.com/vp/2fb688f545d108d9a5253b920d939c19/5D347715/t51.2885-15/e35/54731526_670824743336589_3000880793512717111_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 20:10:13] alt text: Image may contain: shoes and indoor
+INFO [2019-04-02 20:10:13] post likes: 38374
+INFO [2019-04-02 20:10:13] found comments: 3
+ERROR [2019-04-02 20:10:13] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 20:10:13] ERROR something went wrong getting comment
+ERROR [2019-04-02 20:10:13] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 20:10:13] ERROR something went wrong getting comment
+ERROR [2019-04-02 20:10:13] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 20:10:13] ERROR something went wrong getting comment
+INFO [2019-04-02 20:10:13] 0 comments.
+INFO [2019-04-02 20:10:13] Scraping Post Link: https://www.instagram.com/p/Bvvf9qDAbN9/
+INFO [2019-04-02 20:10:14] location_id: 0
+INFO [2019-04-02 20:10:14] location_url: 
+INFO [2019-04-02 20:10:14] location_name: 
+INFO [2019-04-02 20:10:14] lat: 
+INFO [2019-04-02 20:10:14] lng: 
+INFO [2019-04-02 20:10:14] Post date: 2019-04-02T05:56:38.000Z
+INFO [2019-04-02 20:10:14] number of images: 0
+INFO [2019-04-02 20:10:14] video views: 59141
+INFO [2019-04-02 20:10:14] post likes: 6017
+INFO [2019-04-02 20:10:21] found comments: 122
+ERROR [2019-04-02 20:10:21] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 20:10:21] ERROR something went wrong getting comment
+INFO [2019-04-02 20:10:25] 121 comments.
+INFO [2019-04-02 20:10:25] User blacchyna has 170 comments.
+INFO [2019-04-02 20:10:28] Extracting information from Verified
+ERROR [2019-04-02 20:10:29] Failed to get page https://www.instagram.com/Verified/
+INFO [2019-04-02 20:11:45] Extracting information from blacchyna
+INFO [2019-04-02 20:11:48] alias name: Blac Chyna
+INFO [2019-04-02 20:11:48] bio: www.lashedcosmetics.com
+Info@blacchyna.com
+INFO [2019-04-02 20:11:48] url: www.lashedcosmectics.com
+INFO [2019-04-02 20:11:48] Posts: 3751
+INFO [2019-04-02 20:11:48] Follower: 15250173
+INFO [2019-04-02 20:11:48] Following: {'count': 3255}
+INFO [2019-04-02 20:11:48] isPrivate: False
+INFO [2019-04-02 20:11:50] Scraping Post Link: https://www.instagram.com/p/BvvfUzwgNc9/
+INFO [2019-04-02 20:11:52] location_id: 0
+INFO [2019-04-02 20:11:52] location_url: 
+INFO [2019-04-02 20:11:52] location_name: 
+INFO [2019-04-02 20:11:52] lat: 
+INFO [2019-04-02 20:11:52] lng: 
+INFO [2019-04-02 20:11:52] Post date: 2019-04-02T05:49:48.000Z
+INFO [2019-04-02 20:11:52] number of images: 1
+INFO [2019-04-02 20:11:52] post image: https://scontent-bom1-2.cdninstagram.com/vp/72c7399ab828998a9da18b142ffef745/5D2D4135/t51.2885-15/e35/54511861_1372337962924412_1983652495015284380_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 20:11:52] alt text: Image may contain: 1 person, standing, sunglasses and outdoor
+INFO [2019-04-02 20:11:52] post likes: 6081
+INFO [2019-04-02 20:11:53] found comments: 48
+INFO [2019-04-02 20:11:56] 48 comments.
+INFO [2019-04-02 20:11:56] Scraping Post Link: https://www.instagram.com/p/BvvfOwGAQcZ/
+INFO [2019-04-02 20:11:57] location_id: 0
+INFO [2019-04-02 20:11:57] location_url: 
+INFO [2019-04-02 20:11:57] location_name: 
+INFO [2019-04-02 20:11:57] lat: 
+INFO [2019-04-02 20:11:57] lng: 
+INFO [2019-04-02 20:11:57] Post date: 2019-04-02T05:48:58.000Z
+INFO [2019-04-02 20:11:57] number of images: 2
+INFO [2019-04-02 20:11:57] post image: https://scontent-bom1-2.cdninstagram.com/vp/09dd578367e81a94397a7576304f08ea/5D39DD9B/t51.2885-15/e35/54204088_121166485718082_1488397856846985099_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 20:11:57] alt text: No photo description available.
+INFO [2019-04-02 20:11:57] post image: https://scontent-bom1-2.cdninstagram.com/vp/2fb688f545d108d9a5253b920d939c19/5D347715/t51.2885-15/e35/54731526_670824743336589_3000880793512717111_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 20:11:57] alt text: Image may contain: shoes and indoor
+INFO [2019-04-02 20:11:57] post likes: 38463
+INFO [2019-04-02 20:11:57] found comments: 3
+ERROR [2019-04-02 20:11:57] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 20:11:57] ERROR something went wrong getting comment
+ERROR [2019-04-02 20:11:57] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 20:11:57] ERROR something went wrong getting comment
+ERROR [2019-04-02 20:11:57] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 20:11:57] ERROR something went wrong getting comment
+INFO [2019-04-02 20:11:57] 0 comments.
+INFO [2019-04-02 20:11:57] Scraping Post Link: https://www.instagram.com/p/Bvvf9qDAbN9/
+INFO [2019-04-02 20:11:58] location_id: 0
+INFO [2019-04-02 20:11:58] location_url: 
+INFO [2019-04-02 20:11:58] location_name: 
+INFO [2019-04-02 20:11:58] lat: 
+INFO [2019-04-02 20:11:58] lng: 
+INFO [2019-04-02 20:11:58] Post date: 2019-04-02T05:56:38.000Z
+INFO [2019-04-02 20:11:58] number of images: 0
+INFO [2019-04-02 20:11:58] video views: 59288
+INFO [2019-04-02 20:11:58] post likes: 6029
+INFO [2019-04-02 20:12:04] found comments: 122
+ERROR [2019-04-02 20:12:04] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 20:12:04] ERROR something went wrong getting comment
+INFO [2019-04-02 20:12:09] 121 comments.
+INFO [2019-04-02 20:12:09] Scraping Post Link: https://www.instagram.com/p/BvvX7nHAEl4/
+INFO [2019-04-02 20:12:11] location_id: 0
+INFO [2019-04-02 20:12:11] location_url: 
+INFO [2019-04-02 20:12:11] location_name: 
+INFO [2019-04-02 20:12:11] lat: 
+INFO [2019-04-02 20:12:11] lng: 
+INFO [2019-04-02 20:12:11] Post date: 2019-04-02T04:45:11.000Z
+INFO [2019-04-02 20:12:11] number of images: 2
+INFO [2019-04-02 20:12:11] post image: https://scontent-bom1-2.cdninstagram.com/vp/94c5b03a657675b47a3ce6d58c5202c9/5D3AAA05/t51.2885-15/e35/53916456_372120156850183_3094046073616119192_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 20:12:11] alt text: Image may contain: 1 person
+INFO [2019-04-02 20:12:11] post image: https://scontent-bom1-2.cdninstagram.com/vp/4c9bd3613c8494f8e8c4493c421a3e5a/5D465935/t51.2885-15/e35/54511109_532119090649666_7912891193803653542_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 20:12:11] alt text: Image may contain: 1 person
+INFO [2019-04-02 20:12:11] post likes: 26649
+INFO [2019-04-02 20:12:11] found comments: 2
+ERROR [2019-04-02 20:12:11] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 20:12:11] ERROR something went wrong getting comment
+INFO [2019-04-02 20:12:11] 1 comments.
+INFO [2019-04-02 20:12:11] mentions: 1
+INFO [2019-04-02 20:12:11] User blacchyna has 170 comments.
+INFO [2019-04-02 20:12:39] Extracting information from kyliejenner
+INFO [2019-04-02 20:12:43] alias name: Kylie
+INFO [2019-04-02 20:12:43] bio: @kyliecosmetics
+INFO [2019-04-02 20:12:43] url: KylieCosmetics.com
+INFO [2019-04-02 20:12:43] Posts: 5868
+INFO [2019-04-02 20:12:43] Follower: 130914384
+INFO [2019-04-02 20:12:43] Following: {'count': 125}
+INFO [2019-04-02 20:12:43] isPrivate: False
+INFO [2019-04-02 20:12:45] Scraping Post Link: https://www.instagram.com/p/Bvt_WOmHiMi/
+INFO [2019-04-02 20:12:46] location_id: 0
+INFO [2019-04-02 20:12:46] location_url: 
+INFO [2019-04-02 20:12:46] location_name: 
+INFO [2019-04-02 20:12:46] lat: 
+INFO [2019-04-02 20:12:46] lng: 
+INFO [2019-04-02 20:12:46] Post date: 2019-04-01T15:54:10.000Z
+INFO [2019-04-02 20:12:46] number of images: 0
+INFO [2019-04-02 20:12:46] video views: 20442838
+INFO [2019-04-02 20:12:46] post likes: 6043955
+INFO [2019-04-02 20:12:52] found comments: 122
+ERROR [2019-04-02 20:12:52] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 20:12:52] ERROR something went wrong getting comment
+INFO [2019-04-02 20:12:58] 121 comments.
+INFO [2019-04-02 20:12:58] Scraping Post Link: https://www.instagram.com/p/BvngOIhnWGa/
+INFO [2019-04-02 20:12:59] location_id: 0
+INFO [2019-04-02 20:12:59] location_url: 
+INFO [2019-04-02 20:12:59] location_name: 
+INFO [2019-04-02 20:12:59] lat: 
+INFO [2019-04-02 20:12:59] lng: 
+INFO [2019-04-02 20:12:59] Post date: 2019-03-30T03:23:42.000Z
+INFO [2019-04-02 20:12:59] number of images: 2
+INFO [2019-04-02 20:12:59] post image: https://scontent-bom1-2.cdninstagram.com/vp/86eace4f09bc0b200bfed20aa080e0bc/5D304AAE/t51.2885-15/e35/53848945_325034491548631_232049671511682440_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 20:12:59] alt text: Image may contain: 1 person
+INFO [2019-04-02 20:12:59] post image: https://scontent-bom1-2.cdninstagram.com/vp/1fd222ff28a96b2c10847dd5d31e3205/5D4842FE/t51.2885-15/e35/56182689_370180000245657_1313827740651097537_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 20:12:59] alt text: Image may contain: 1 person, indoor
+INFO [2019-04-02 20:12:59] post likes: 4782911
+INFO [2019-04-02 20:12:59] found comments: 2
+ERROR [2019-04-02 20:12:59] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 20:12:59] ERROR something went wrong getting comment
+INFO [2019-04-02 20:12:59] 1 comments.
+INFO [2019-04-02 20:12:59] mentions: 1
+INFO [2019-04-02 20:12:59] Scraping Post Link: https://www.instagram.com/p/Bvt_N-IH0JU/
+INFO [2019-04-02 20:13:00] location_id: 0
+INFO [2019-04-02 20:13:00] location_url: 
+INFO [2019-04-02 20:13:00] location_name: 
+INFO [2019-04-02 20:13:00] lat: 
+INFO [2019-04-02 20:13:00] lng: 
+INFO [2019-04-02 20:13:00] Post date: 2019-04-01T15:50:00.000Z
+INFO [2019-04-02 20:13:00] number of images: 1
+INFO [2019-04-02 20:13:00] post image: https://scontent-bom1-2.cdninstagram.com/vp/fac392b5d8ab29e01d741ad35c89837e/5D3D8D3D/t51.2885-15/e35/54731631_2149579048483683_672895699741093807_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 20:13:00] alt text: Image may contain: one or more people
+INFO [2019-04-02 20:13:00] post likes: 3877340
+INFO [2019-04-02 20:13:07] found comments: 122
+ERROR [2019-04-02 20:13:07] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 20:13:07] ERROR something went wrong getting comment
+INFO [2019-04-02 20:13:12] 121 comments.
+INFO [2019-04-02 20:13:12] Scraping Post Link: https://www.instagram.com/p/Bvnf6j-HQip/
+INFO [2019-04-02 20:13:13] location_id: 0
+INFO [2019-04-02 20:13:13] location_url: 
+INFO [2019-04-02 20:13:13] location_name: 
+INFO [2019-04-02 20:13:13] lat: 
+INFO [2019-04-02 20:13:13] lng: 
+INFO [2019-04-02 20:13:13] Post date: 2019-03-30T03:21:02.000Z
+INFO [2019-04-02 20:13:13] number of images: 1
+INFO [2019-04-02 20:13:13] post image: https://scontent-bom1-2.cdninstagram.com/vp/b6f2259695e9587c9eabc6b7c985866b/5D32E65D/t51.2885-15/e35/53495570_897793923891605_3977789540932467761_n.jpg?_nc_ht=scontent-bom1-2.cdninstagram.com
+INFO [2019-04-02 20:13:13] alt text: Image may contain: 1 person, standing
+INFO [2019-04-02 20:13:13] post likes: 5292001
+INFO [2019-04-02 20:13:19] found comments: 122
+ERROR [2019-04-02 20:13:19] ERROR something went wrong getting user_commented
+ERROR [2019-04-02 20:13:19] ERROR something went wrong getting comment
+INFO [2019-04-02 20:13:24] 121 comments.
+INFO [2019-04-02 20:13:24] mentions: 1
+INFO [2019-04-02 20:13:24] User kyliejenner has 364 comments.

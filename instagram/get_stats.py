@@ -84,10 +84,11 @@ def get_stats(usrname):
 		pass
 
 	
-	bullied_comments_1st = df[df['post_url'] == most_bullied_post].sort_values(by = ['confidence_score'], ascending  = False)['comment'].iloc[:Settings.top_k_comments]
-	bullied_comments_2nd = df[df['post_url'] == second_most_bullied_post].sort_values(by = ['confidence_score'], ascending  = False)['comment'].iloc[:Settings.top_k_comments]
-	bullied_comments_1st = bullied_comments_1st.tolist()
-	bullied_comments_2nd = bullied_comments_2nd.tolist()
+	bullied_comments_1st = df[df['post_url'] == most_bullied_post].sort_values(by = ['confidence_score'], ascending  = False)[['commented_by', 'comment']].iloc[:Settings.top_k_comments]
+	bullied_comments_2nd = df[df['post_url'] == second_most_bullied_post].sort_values(by = ['confidence_score'], ascending  = False)[['commented_by', 'comment']].iloc[:Settings.top_k_comments]
+	bullied_comments_1st = bullied_comments_1st.to_dict(orient='list')
+	bullied_comments_2nd = bullied_comments_2nd.to_dict(orient='list')
+
 
 	return_dict = {'dp_link': dp_link, 
 					'bullied_percent': global_bully_percent, 
